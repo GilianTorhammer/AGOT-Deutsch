@@ -1,12 +1,12 @@
 ﻿l_german:
 
-##########################
-#   North Filler Events  #
-##########################
+############################
+#   Norden Füllereignisse  #
+############################
 
-###########################
+###################################
 #   Begegnung mit einem Wildling  #
-###########################
+###################################
 
  agot_filler_north.0001.t:0 "Begegnung mit einem Wildling"
  agot_filler_north.0001.desc:0 "Bei einem Ausritt durch den Wald entdecke ich einen zerzausten Mann in der Nähe und bemerkte schon bald, dass es sich um einen Wildling handelte!"
@@ -21,9 +21,9 @@
  agot_filler_north.0002.desc:0 "Nicht alle Wildlinge sind böse, und ich brauche an meinem Hof mehr treue Diener. Beugt das Knie und erhebt Euch als Mann des Nordens."
  agot_filler_north.0002.a:0 "Von diesem Tag an bis zum Ende eurer Tage."
 
-##############################
+######################################
 #   Ein schwarzer Bruder desertiert  #
-##############################
+######################################
 
  agot_filler_north.0003.t:0 "Ein schwarzer Bruder desertiert"
  agot_filler_north.0003.desc:0 "Die Männer der Nachtwache haben ein heiliges Gelübde abgelegt: Sie leben und sterben auf ihrem Posten. Ein Deserteur muss durch die Hand des Lords, der ihn gefangen nimmt, seine gerechte Strafe erhalten."
@@ -45,96 +45,96 @@
  agot_filler_north.0006.desc:0 "Ich dachte, ich hätte [agot_filler_black_brother_deserter.GetFirstNameNoTooltip] zum letzten Mal gesehen, als er aus der Schwarzen Festung floh und behauptete, in der gefrorenen Einöde unaussprechliche Schrecken gesehen zu haben.\n\nJetzt, wo er vor mir steht, sehe ich nur einen Deserteur, der die Gerechtigkeit verdient - einen schnellen Tod."
  agot_filler_north.0006.a:0 "Du lebst und stirbst auf deinem Posten, Bruder."
 
-#######################################
-#   DIREWOLF CLOAKS SOLD BY MERCHANT  #
-#######################################
+###############################################
+#    HÄNDLER VERKAUFT SCHATTENWOLFUMHÄNGE     #
+###############################################
 
- agot_filler_north.0020.t:0 "Direwolf Cloaks for Sale!"
- agot_filler_north.0020.desc:0 ""Direwolf cloaks! Direwolf cloaks for sale," the merchant yells. I turn around and see the merchant has three large, furry cloaks strung up behind him. He catches my gaze and invites me to inspect the cloaks..."
- agot_filler_north.0020.a:0 "Inspect the cloaks."
- agot_filler_north.0020.b:0 "Direwolves? Those are extinct! Explain yourself, merchant."
- agot_filler_north.0020.c:0 "I don't need any cloaks."
- agot_filler_north.0020.a_tt:0 "You take a closer look at the cloaks."
+ agot_filler_north.0020.t:0 "Schattenwolfumhänge zu verkaufen!"
+ agot_filler_north.0020.desc:0 ""Schattenwolfumhänge! Schattenwolfumhänge zu verkaufen," brüllt der Händler. Ich drehe mich um und sehe, dass der Händler drei große, pelzige Umhänge hinter sich aufgespannt hat. Er fängt meinen Blick auf und lädt mich ein, die Umhänge zu inspizieren..."
+ agot_filler_north.0020.a:0 "Inspiziert die Umhänge."
+ agot_filler_north.0020.b:0 "Schattenwölfe? Die sind ausgestorben! Erklärt euch, Händler."
+ agot_filler_north.0020.c:0 "Ich benötige keine Umhänge."
+ agot_filler_north.0020.a_tt:0 "Ihr betrachtet die Umhänge genauer."
 
-#genuine coat
- agot_filler_north.0021.t:0 "Upon Closer Look"
- agot_filler_north.0021.desc:0 "I pull down a large white cloak. Feeling the coat in my hands, I can tell the craftmanship is remarkable; even the stitchwork is masterclass! I close my eyes and smell the cloak; it smells like snow and pine. I open my eyes, remove my coat and thrust it into the merchant's arms while I try on the direwolf cloak. The coat is refreshingly warm. I can tell there is a distinct difference from my wolf-fur coat.\n\nThe merchant clears his throat, mumbling something about time to pay up or return the cloak..."
- agot_filler_north.0021.a:0 "I have to buy this!"
- agot_filler_north.0021.b:0 "It seems genuine, but I don't need it..."
- agot_filler_north.0021.c:0 "I am a noble, I need not pay for this!"
+#echtes Fell
+ agot_filler_north.0021.t:0 "Bei näherer Begutachtung"
+ agot_filler_north.0021.desc:0 "Ich ziehe einen großen weißen Umhang herunter. Als ich das Fell in meinen Händen spüre, erkenne ich, dass die Handwerkskunst bemerkenswert ist; sogar die Nähte sind meisterhaft! Ich schließe die Augen und rieche an dem Umhang; er riecht nach Schnee und Kiefernholz. Ich öffne die Augen, ziehe meinen Umhang aus und lege ihn in die Arme des Händlers, während ich den Schattenwolfumhang anprobiere. Der Umhang ist erfrischend warm. Ich merke einen deutlichen Unterschied zu meinem Wolfsumhang.\n\n Der Händler räuspert sich und murmelt etwas von "Zeit zu bezahlen oder den Umhang zurückzugeben"..."
+ agot_filler_north.0021.a:0 "Das muss ich unbedingt kaufen!"
+ agot_filler_north.0021.b:0 "Es scheint echt zu sein, aber ich brauche es nicht..."
+ agot_filler_north.0021.c:0 "Ich bin ein Edelmann, ich muss nicht dafür bezahlen!"
 
-#dubious coat
- agot_filler_north.0022.t:0 "Upon Closer Look"
- agot_filler_north.0022.desc:0 "I pull down a large white cloak. Feeling the coat in my hands, I am not surprised to discover that the craftmanship is nothing extraordinary. I close my eyes and smell the cloak; it smells like old meat and wet dog. Eugh. The merchant implores me to try it on. I slip it on, and I can feel the cold breeze shredding through.\n\nThe merchant clears his throat, mumbling something about time to pay up or return the cloak..."
- agot_filler_north.0022.a:0 "I should have you arrested for this..."
+#Fragwürdiges Fell
+ agot_filler_north.0022.t:0 "Bei näherer Begutachtung"
+ agot_filler_north.0022.desc:0 "Ich ziehe einen großen weißen Umhang herunter. Als ich das Fell in meinen Händen spüre, bin ich nicht überrascht, dass die Verarbeitung nichts Außergewöhnliches ist. Ich schließe meine Augen und rieche an dem Umhang; er riecht nach altem Fleisch und nassem Hund. Igitt. Der Händler bittet mich, ihn anzuprobieren. Ich ziehe ihn an und spüre den kalten Luftzug. \n\n Der Händler räuspert sich und murmelt etwas von "Zeit, zu bezahlen oder den Umhang zurückzugeben"..."
+ agot_filler_north.0022.a:0 "Ich sollte euch dafür einsperren lassen..."
 
- agot_filler_north.0023.t:0 "'Direwolf' Cloaks, Eh?"
- agot_filler_north.0023.desc:0 ""The direwolf? Extinct? No, no, no," the merchant mutters. "South of the Wall, yes. But these cloaks were made from direwolves hunted by wildlings, beyond the wall! I have gone through great strife to have these fresh wares delivered south of the Wall, for buyers such as yourself. Go on, inspect them! See for yourself.""
- agot_filler_north.0023.a:0 "Inspect the cloaks."
- agot_filler_north.0023.b:0 "I don't really care."
+ agot_filler_north.0023.t:0 "'Schattenwolf'-Umhänge, hä?"
+ agot_filler_north.0023.desc:0 ""Der Schattenwolf? Ausgestorben? Nein, nein, nein", murmelt der Händler. "Südlich der Mauer, gewiss. Aber diese Umhänge wurden aus Schattenwölfen hergestellt, die von Wildlingen jenseits der Mauer gejagt wurden! Ich habe große Mühen auf mich genommen, um diese frischen Waren für Abnehmer wie euch südlich der Mauer liefern zu lassen. Nur zu, begutachtet sie! Überzeugt Euch selbst.""
+ agot_filler_north.0023.a:0 "Überprüft die Umhänge."
+ agot_filler_north.0023.b:0 "Das interessiert mich nicht."
 
-##################################
-#   SUMMER SNOW CHILDHOOD EVENT  #
-##################################
+#####################################
+#   SOMMERSCHNEE KINDHEITSEREIGNIS  #
+#####################################
 
- agot_filler_north.0030.t:0 "Summer Snows!"
- agot_filler_north.0030.desc:0 "BRRRR! I was playing outside when a sudden burst of snow started coming down, out of nowhere! The maesters tell me these summer snows can become dangerous if I linger too long, but I'm already having so much fun... "
- agot_filler_north.0030.a:0 "I should listen to the maesters. Last one back to the keep is a wildling!"
- agot_filler_north.0030.b:0 "I am a NORTHERNER! This is summer snow. It means nothing."
- agot_filler_north.0030.c:0 "But the keep is #italic so#! far..."
+ agot_filler_north.0030.t:0 "Sommerschnee!"
+ agot_filler_north.0030.desc:0 "BRRRR! Ich habe draußen gespielt, als es plötzlich wie aus dem Nichts zu schneien begann! Die Maester haben mir gesagt, dass dieser Sommerschnee gefährlich werden kann, wenn ich mich zu lange draußen aufhalte, aber ich habe so viel Spaß... "
+ agot_filler_north.0030.a:0 "Ich sollte auf die Maester hören. Der Letzte, der zum Bergfried zurückkehrt, ist ein Wildling!"
+ agot_filler_north.0030.b:0 "Ich bin ein NORDMANN! Das ist Sommerschnee. Er bedeutet nichts."
+ agot_filler_north.0030.c:0 "Aber der Bergfried ist #italic so#! weit..."
 
-#######################################
-#   SUMMER SNOW DESTROYS CROPS EVENT  #
-#######################################
+##############################################
+#   SOMMERSCHNEE VERNICHTET ERNTEN EREIGNIS  #
+##############################################
 
- agot_filler_north.0031.t:0 "Winter Has Come Early"
- agot_filler_north.0031.desc:0 ""My liege, my liege," the sour-faced farmer standing before me says, "these summer snow storms have decimated my crop! There is no chance I will ever recover, especially with the harvest soon. I know not what I will do if I cannot provide for my family this season, especially with winter coming soon... There must be something you can do you!"\n\nThe farmer is bold to demand of me relief for his farm... but these summer snowstorms #italic have#! been damaging to farms across the country... "
- agot_filler_north.0031.a:0 "I will provide compensation for the destroyed crops only."
- agot_filler_north.0031.b:0 "This was punishment from the Old Gods for your sins."
- agot_filler_north.0031.c:0 "You are a NORTHERNER! You should know the hazard of summer snowstorms."
+ agot_filler_north.0031.t:0 "Der Winter ist früher eingekehrt"
+ agot_filler_north.0031.desc:0 ""Mein Herr, mein Herr", sagt der frustrierte Bauer vor mir, "diese Sommerschneestürme haben meine Ernte dezimiert! Ich habe keine Hoffnung, dass ich den vollen Ertrag wiederherstellen kann, vor allem, weil die Ernte bald ansteht. Ich weiß nicht, was ich tun soll, wenn ich meine Familie in dieser Erntezeit nicht ernähren kann, vor allem, weil der Winter naht... Es muss doch etwas geben, was ihr tun könnt!"\n\nDer Bauer ist mutig, von mir Hilfe für seine Farm zu verlangen... aber diese Sommerschneestürme haben den Farmen im ganzen Land Schaden zugefügt... "
+ agot_filler_north.0031.a:0 "Ich werde nur für die zerstörte Ernte eine Entschädigung zahlen."
+ agot_filler_north.0031.b:0 "Das war die Bestrafung durch die alten Götter für eure Sünden."
+ agot_filler_north.0031.c:0 "Ihr seid ein NORDMANN! Ihr solltet die Gefahr von Schneestürmen im Sommer kennen."
 
-####################################################
-#   FIRSTMEN RUNES UNCOVERED - CONSTRUCTION CREW   #
-####################################################
+#######################################################
+#   RUNEN DER ERSTEN MENSCHEN ENTDECKT - BAUMEISTER   #
+#######################################################
 
- agot_filler_north.0032.t:0 "Runes of the First Men"
- agot_filler_north.0032.desc:0 "A construction project in the area has made a fascinating discovery. Apparently, a local builder has unearthed a cache of stones that are engraved with the runes of the First Men. The builder is offering to sell me the stones for what he describes as a very fair price.\n\nThe maesters taught us that the First Men engraved their runes onto stones and other objects when they first came to Westeros. Some even say these carvings hold magical properties. These stones could be very valuable, and would certainly increase my standing across the North..."
- agot_filler_north.0032.a:0 "Send a courier to buy the stones."
- agot_filler_north.0032.b:0 "I don't need such things."
- agot_filler_north.0032.c:0 "The First Men's legacy is #italic my#! legacy. Take the stones."
- agot_filler_north.0032.d:0 "The First Men's legacy is #italic my#! legacy. Take the stones."
+ agot_filler_north.0032.t:0 "Runen der ersten Menschen"
+ agot_filler_north.0032.desc:0 "Bei einem Bauvorhaben in dieser Gegend wurde eine bemerkenswerte Entdeckung gemacht. Anscheinend hat ein einheimischer Baumeister ein Steinhaufen ausgegraben, auf denen die Runen der Ersten Menschen eingraviert sind. Der Baumeister bietet mir an, die Steine zu einem, wie er sagt, sehr fairen Preis zu verkaufen.\n\n Die Maester haben uns gelehrt, dass die Ersten Menschen ihre Runen in Steine und andere Gegenstände eingraviert haben, als sie zum ersten Mal nach Westeros kamen. Manche sagen sogar, dass diese Schnitzereien magische Eigenschaften haben. Diese Steine könnten sehr wertvoll sein und würden mein Ansehen im Norden zweifellos erhöhen..."
+ agot_filler_north.0032.a:0 "Schickt einen Boten, um die Steine zu kaufen."
+ agot_filler_north.0032.b:0 "Ich brauche so etwas nicht."
+ agot_filler_north.0032.c:0 "Das Vermächtnis der Ersten Männer ist #italic mein#!Vermächtnis. Ihr nehmt die Steine."
+ agot_filler_north.0032.d:0 "Das Vermächtnis der Ersten Männer ist #italic mein#!Vermächtnis. Ihr nehmt die Steine."
 
 ########################################
-#   APPRECIATING A TRUE WEIRWOOD TREE  #
+#   EINEN ECHTEN WEHRBAUM ZU WÜRDIGEN  #
 ########################################
 
- agot_filler_north.0033.t:0 "A Jaunt Through the Woods"
- agot_filler_north.0033.desc:0 "Traveling through some of the more remote parts of my domain can be very rewarding. I find that taking long walks through the woods, or the hills, or even just a field, can deeply relieve the stresses of being a noble.\n\nToday, I am wandering through a small, forgotten forest. The trees are very old, their thick trunks intersect and intermingle with one another in ways I've never seen before. As I trek further into the woods, I spot a beautiful white and red tree - a weirwood! These ancient trees are all still alive here in the North, but to see one in the deep wilderness like this is... humbling. I walk up to the trunk and look into the weeping face that the Children of the Forest had carved thousands of years of ago. I take in its strange beauty and can't help but feel relaxed as I turn to leave."
- agot_filler_north.0033.a:0 "Such a beautiful tree."
- agot_filler_north.0033.b:0 "I am glad such a sacred tree remains safe here."
- agot_filler_north.0033.c:0 "I should go back and make a prayer to the Old Gods..."
+ agot_filler_north.0033.t:0 "Ein Ausflug in die Wälder"
+ agot_filler_north.0033.desc:0 "Es kann sehr bereichernd sein, durch einige der abgelegeneren Teile meiner Ländereien zu reisen. Ich finde, dass lange Spaziergänge durch die Wälder, die Hügel oder auch nur durch ein Feld den Stress des Edelmanndaseins sehr lindern können.\n\nHeute wandere ich durch einen kleinen, vergessenen Wald. Die Bäume sind sehr alt, ihre dicken Stämme kreuzen und verflechten sich auf eine Weise, die ich noch nie gesehen habe. Als ich weiter in den Wald hineinwandere, entdecke ich einen wunderschönen weiß-roten Baum - einen Wehrholzbaum! Diese uralten Bäume sind hier im Norden alle noch am Leben, aber einen solchen in der tiefen Wildnis zu sehen, ist... beeindruckend. Ich gehe auf den Stamm zu und schaue in das weinende Gesicht, das die Kinder des Waldes vor Tausenden von Jahren geschnitzt haben. Ich nehme seine seltsame Schönheit in mich auf und kann nicht anders, als mich zu entspannen, als ich mich zum Gehen entschließe."
+ agot_filler_north.0033.a:0 "Was für ein schöner Baum."
+ agot_filler_north.0033.b:0 "Ich bin froh, dass ein so heiliger Baum hier geschützt steht."
+ agot_filler_north.0033.c:0 "Ich sollte zurückgehen und ein Gebet an die alten Götter richten..."
 
-#######################################
-#   WOLF ATTACKS ON SHEEP/WOOL TRADE  #
-#######################################
+############################################
+#   WOLFANGRIFFE AUF DEN SCHAF/WOLLHANDEL  #
+############################################
 
- agot_filler_north.0034.t:0 "Wolf Attacks Threaten Woolers"
- agot_filler_north.0034.desc:0 "It's another long night in my study. The sun has set, and the moon has climbed high into the sky. I hardly need my candle with the moon shining so bright. As I'm spending hours reviewing reports, reading accounts, and stamping documents, I come across a recent report signed by both my steward and marshall.\n\nThe report notes that shearers across my demesne have found a growing number of dying or injured woolers — animals that produce wool, as noted by my steward in the report. Goats, sheep, and even wooldogs have been viciously attacked in the night by what many claim to be large, ravenous wolf packs. Should these attacks continue in their current number, the wool trade could face serious drawbacks.\n\nComing up with a solution to this problem seems suddenly prudent; it would be nice to present a resolution to my council tommorow morning."
- agot_filler_north.0034.a:0 "Post a bounty for wolves, and pay every hunter in gold for each wolf slain."
- agot_filler_north.0034.b:0 "Issue a citation to the shearers for not taking care of their woolers."
- agot_filler_north.0034.c:0 "Issue compensation to the shearers most affected."
+ agot_filler_north.0034.t:0 "Wolfsangriffe bedrohen die Schäfer"
+ agot_filler_north.0034.desc:0 "Es ist eine weitere lange Nacht in meinem Arbeitszimmer. Die Sonne ist untergegangen, und der Mond ist hoch in den Himmel gestiegen. Bei dem hellen Mondschein brauche ich meine Kerze kaum. Während ich Stunden damit verbringe, Berichte durchzusehen, Geschäftsbücher zu prüfen und Dokumente zu stempeln, stoße ich auf einen aktuellen Bericht, der sowohl von meinem Verwalter als auch von meinem Marschall unterzeichnet ist.\n\n Der Bericht stellt fest, dass Schäfer in meiner gesamten Domäne eine wachsende Zahl sterbender oder verletzter Wolltiere gefunden haben - Tiere, die Wolle produzieren, wie mein Verwalter in dem Bericht vermerkt. Ziegen, Schafe und sogar Wollhunde wurden in der Nacht von großen, gefräßigen Wolfsrudeln angegriffen, wie viele berichten. Sollten sich diese Angriffe in ihrer derzeitigen Anzahl fortsetzen, könnte der Wollhandel ernsthafte Verluste erleiden.\n\nEine Lösung für dieses Problem zu finden, erscheint mir unausweichlich; es wäre schön, meinem Rat morgen früh eine Lösung vorlegen zu können."
+ agot_filler_north.0034.a:0 "Setzt ein Kopfgeld auf Wölfe aus und bezahlt jeden Jäger in Gold für jeden erlegten Wolf."
+ agot_filler_north.0034.b:0 "Erteilt den Schäfern eine Verwarnung, weil sie sich nicht auf ihre Wolle Acht geben."
+ agot_filler_north.0034.c:0 "Entschädigt die am stärksten betroffenen Schäfer"
 
-######################################
-#   HEART TREE GARDENER MAINTENANCE  #
-######################################
+#############################
+#   HERZBAUM GÄRTNERPFLEGE  #
+#############################
 
- agot_filler_north.0035.t:0 "Tending the Heart Tree"
- agot_filler_north.0035.desc:0 "My gardening staff has recently been working on the Godswood in my keep. They've mulched the flowerbeds, planted new flowers, trimmed the hedges, and have generally improved the Godswood, making it reminiciest of a small grove.\n\nBut the gardening staff have come to me with a request to spruce up the weirwood heart tree that stands proud over the entire Godswood. The gardeners tell me that they'll only beautify it, pruning the branches and roots, but I'm wary of any potential damages to it. After all, what kind of Northerner lets his heart tree fall into ruin?"
- agot_filler_north.0035.a:0 "Let only the most experienced gardeners handle it."
- agot_filler_north.0035.b:0 "What can go wrong?"
- agot_filler_north.0035.c:0 "I don't want to risk it... The heart tree is too sacred."
- agot_filler_north.0035.d:0 "No, I'll do it myself!"
-
+ agot_filler_north.0035.t:0 "Die Pflege des Herzbaums"
+ agot_filler_north.0035.desc:0 "Meine Gärtner haben sich kürzlich um den Götterhain in meinem Bergfried gekümmert. Sie haben die Blumenbeete gemulcht, neue Blumen gepflanzt, die Hecken beschnitten und den Götterhain im Allgemeinen verschönert, so dass er am ehesten an einen kleinen Hain erinnert.\n\n Aber die Gärtner sind mit der Bitte an mich herangetreten, den Wehrholz-Herzbaum zu verschönern, der stolz über dem gesamten Götterhain steht. Die Gärtner sagen mir, dass sie ihn nur verschönern und die Äste und Wurzeln beschneiden werden, aber ich bin vorsichtig wegen möglicher Schäden an ihm. Welcher Nordmann lässt schon seinen Herzbaum verkommen?"
+ agot_filler_north.0035.a:0 "Überlasst dies nur den erfahrensten Gärtnern."
+ agot_filler_north.0035.b:0 "Was kann schon schiefgehen?"
+ agot_filler_north.0035.c:0 "Ich will es nicht riskieren... Der Herzbaum ist zu heilig."
+ agot_filler_north.0035.d:0 "Nein, ich werde es selbst tun!"
+ 
 ##################################
 #  ICE SKATING - GENERIC LEISURE #
 ##################################
