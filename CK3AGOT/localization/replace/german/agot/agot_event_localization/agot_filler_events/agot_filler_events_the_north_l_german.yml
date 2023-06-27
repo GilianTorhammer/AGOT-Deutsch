@@ -5,45 +5,45 @@
 ##########################
 
 ###########################
-#   A Wildling Encounter  #
+#   Begegnung mit einem Wildling  #
 ###########################
 
- agot_filler_north.0001.t:0 "A Wildling Encounter"
- agot_filler_north.0001.desc:0 "While on a jaunt through the woods, I spot a disheveled man nearby and soon discovered he is a wildling!"
- agot_filler_north.0001.a:0 "Die, you savage!"
- agot_filler_north.0001.a.tt:0 "With wildlings, it's kill or be killed."
- agot_filler_north.0001.b:0 "I could use another servant..."
- agot_filler_north.0001.b.tt:0 "You offer the man the opportunity to work in your stables."
- agot_filler_north.0001.c:0 "I'll hide myself in the undergrowth, they'll never see me!"
- agot_filler_north.0001.c.tt:0 "Some may call you a craven, but at least you're a craven who still draws breath!"
+ agot_filler_north.0001.t:0 "Begegnung mit einem Wildling"
+ agot_filler_north.0001.desc:0 "Bei einem Ausritt durch den Wald entdecke ich einen zerzausten Mann in der Nähe und bemerkte schon bald, dass es sich um einen Wildling handelte!"
+ agot_filler_north.0001.a:0 "Stirb, du Wildling!"
+ agot_filler_north.0001.a.tt:0 "Bei Wildlingen, heißt es töten oder getötet werden."
+ agot_filler_north.0001.b:0 "Ich könnte einen weiteren Hausdiener gebrauchen..."
+ agot_filler_north.0001.b.tt:0 "Ihr bietet ihm die Möglichkeit an, in euren Stallungen zu arbeiten."
+ agot_filler_north.0001.c:0 "Ich verstecke mich im Gebüsch, man wird mich nicht entdecken!"
+ agot_filler_north.0001.c.tt:0 "Manche mögen Euch einen Feigling nennen, aber zumindest seid Ihr ein Feigling, der noch atmet!"
 
- agot_filler_north.0002.t:0 "A Wildling Encounter"
- agot_filler_north.0002.desc:0 "Wildlings cannot be all bad, and I have need in my court for more loyal servants. Bend the knee, and rise a man of the North."
- agot_filler_north.0002.a:0 "From this day to the end of your days."
+ agot_filler_north.0002.t:0 "Begegnung mit einem Wildling"
+ agot_filler_north.0002.desc:0 "Nicht alle Wildlinge sind böse, und ich brauche an meinem Hof mehr treue Diener. Beugt das Knie und erhebt Euch als Mann des Nordens."
+ agot_filler_north.0002.a:0 "Von diesem Tag an bis zum Ende eurer Tage."
 
 ##############################
-#   A Black Brother Deserts  #
+#   Ein schwarzer Bruder desertiert  #
 ##############################
 
- agot_filler_north.0003.t:0 "A Black Brother Deserts"
- agot_filler_north.0003.desc:0 "The men of the Night's Watch take a sacred vow: To live and die at their post. A deserter must find justice at the hand of the lord who captures him."
- agot_filler_north.0003.a:0 "Bring in the scoundrel."
+ agot_filler_north.0003.t:0 "Ein schwarzer Bruder desertiert"
+ agot_filler_north.0003.desc:0 "Die Männer der Nachtwache haben ein heiliges Gelübde abgelegt: Sie leben und sterben auf ihrem Posten. Ein Deserteur muss durch die Hand des Lords, der ihn gefangen nimmt, seine gerechte Strafe erhalten."
+ agot_filler_north.0003.a:0 "Bringt den Eidbrecher herein."
 
- agot_filler_north.0004.t:0 "A Black Brother Deserts"
- agot_filler_north.0004.desc:0 "The deserter, a man named [agot_filler_black_brother_deserter.GetFirstNameNoTooltip], is brought before me. He whimpers about the things he saw north of the Wall. Unspeakable horrors in the frozen waste..."
- agot_filler_north.0004.a:0 "He shall receive the King's justice."
- agot_filler_north.0004.b:0 "He has clearly seen a great deal."
- agot_filler_north.0004.b.tt:0 "Perhaps he ought to return to his post..."
+ agot_filler_north.0004.t:0 "Ein schwarzer Bruder desertiert"
+ agot_filler_north.0004.desc:0 "Der Deserteur, ein Mann namens [agot_filler_black_brother_deserter.GetFirstNameNoTooltip], wird zu mir gebracht. Er wimmert über die Dinge, die er nördlich der Mauer gesehen hat. Unaussprechliche Schrecken in der eisigen Einöde..."
+ agot_filler_north.0004.a:0 "Er soll die Gerechtigkeit des Königs erfahren."
+ agot_filler_north.0004.b:0 "Er hat offensichtlich viel gesehen."
+ agot_filler_north.0004.b.tt:0 "Vielleicht sollte er auf seinen Posten zurückkehren..."
 
- agot_filler_north.0005.t:0 "A Black Brother Receives Justice"
- agot_filler_north.0005.desc:0 "It is said in the North: The man who passes the sentence should swing the sword. I look into [agot_filler_black_brother_deserter.GetFirstNameNoTooltip]'s eyes for the last time."
- agot_filler_north.0005.a:0 "Damn what they say. Why do I have an executioner in my employ?"
- agot_filler_north.0005.b:0 "I shall swing the sword."
- agot_filler_north.0005.b.tt:0 "Execute him."
+ agot_filler_north.0005.t:0 "Ein schwarzer Bruder wird gerichtet"
+ agot_filler_north.0005.desc:0 "Es heißt im Norden: Der Mann, der ein Urteil fällt, soll auch das Schwert führen. Ich schaue zum letzten Mal in die Augen von [agot_filler_black_brother_deserter.GetFirstNameNoTooltip]."
+ agot_filler_north.0005.a:0 "Zum Teufel mit dem, was sie sagen. Wozu habe ich sonst einen Henker in meinen Diensten?"
+ agot_filler_north.0005.b:0 "Ich werde das Schwert führen."
+ agot_filler_north.0005.b.tt:0 "Richtet ihn hin."
 
- agot_filler_north.0006.t:0 "A Deserter Returns to the Wall"
- agot_filler_north.0006.desc:0 "I thought I had seen the last of [agot_filler_black_brother_deserter.GetFirstNameNoTooltip] when he fled Castle Black, claiming to have seen unspeakable horrors in the frozen waste.\n\nNow, standing before me, I see only a deserter deserving of justice — a quick death."
- agot_filler_north.0006.a:0 "You live and die at your post, brother."
+ agot_filler_north.0006.t:0 "Ein Deserteur kehrt an die Mauer zurück"
+ agot_filler_north.0006.desc:0 "Ich dachte, ich hätte [agot_filler_black_brother_deserter.GetFirstNameNoTooltip] zum letzten Mal gesehen, als er aus der Schwarzen Festung floh und behauptete, in der gefrorenen Einöde unaussprechliche Schrecken gesehen zu haben.\n\nJetzt, wo er vor mir steht, sehe ich nur einen Deserteur, der die Gerechtigkeit verdient - einen schnellen Tod."
+ agot_filler_north.0006.a:0 "Du lebst und stirbst auf deinem Posten, Bruder."
 
 #######################################
 #   DIREWOLF CLOAKS SOLD BY MERCHANT  #
