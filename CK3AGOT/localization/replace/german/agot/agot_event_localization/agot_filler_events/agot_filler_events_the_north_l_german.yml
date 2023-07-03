@@ -135,227 +135,227 @@
  agot_filler_north.0035.c:0 "Ich will es nicht riskieren... Der Herzbaum ist zu heilig."
  agot_filler_north.0035.d:0 "Nein, ich werde es selbst tun!"
  
-##################################
-#  ICE SKATING - GENERIC LEISURE #
-##################################
+###################################
+# Eislaufen - ALLGEMEINE FREIZEIT #
+###################################
 
- agot_filler_north.0036.t:0 "Ice Skaters!"
- agot_filler_north.0036.desc:0 "Today is a chilly but otherwise nice day. I've taken a few hours to myself to walk around some of the smaller settlements near my keep, taking in nature and simply enjoying the nice day.\n\nAs I'm walking, I come upon a frozen pond and see some smallfolk wonderously skating around on the ice! Their movements are all over the place; many fall onto the ice, but some are gliding beautifully. Ah, what a pretty sight!"
- agot_filler_north.0036.a:0 "I think I'll sit down here and watch them for a while."
- agot_filler_north.0036.b:0 "I think I'll join them!"
- agot_filler_north.0036.c:0 "No, no. It isn't safe, I have to stop them!"
+ agot_filler_north.0036.t:0 "Eisläufer!"
+ agot_filler_north.0036.desc:0 "Heute ist ein kühler, aber ansonsten schöner Tag. Ich habe mir ein paar Stunden Zeit genommen, um in den kleineren Siedlungen in der Nähe meiner Burg spazieren zu gehen, die Natur zu bewundern und einfach den schönen Tag zu genießen.\n\n Als ich herumspaziere, komme ich an einem zugefrorenen Teich vorbei und sehe das Gemeine Volk, das herrlich auf dem Eis herumläuft! Ihre Bewegungen sind sehr unterschiedlich, viele fallen auf das Eis, aber manche gleiten auch wunderschön. Ah, was für ein schöner Anblick!"
+ agot_filler_north.0036.a:0 "Ich denke, ich werde mich hier eine Weile setzen und sie beobachten."
+ agot_filler_north.0036.b:0 "Ich glaube, ich werde mich ihnen anschließen!"
+ agot_filler_north.0036.c:0 "Nein, nein. Es ist nicht sicher auf dem Eis, ich muss sie aufhalten!"
 
 #########################
 #  ICE SKATING - TRAVEL #
 #########################
 
- agot_filler_north.0037.t:0 "Skating Through the North"
- agot_filler_north.0037.desc:0 "My interest has been piqued by academic accounts of northman using skates fashioned from the bones of sheep and horses to glide across the vast stretches of icy waste. Apparently, this is an ancient method of travel that some parts of the North have relied on during winter to trade and reach other villages. One particular account even claims it has been practiced since the First Men settled in the North!"
- agot_filler_north.0037.a:0 "Winter truly causes us to innovate."
- agot_filler_north.0037.b:0 "Fascinating; but I'll stick to the good ol' sleigh."
- agot_filler_north.0037.c:0 "Can we adopt this to aid our armies in Northern campaigns?"
-
-##################################
-#   TALES OF UNICORNS ON SKAGOS  #
-##################################
-
- agot_filler_north.0038.t:0 "Unicorns on Skagos"
- agot_filler_north.0038.desc:0 "According to both myth and maesters, on the island of Skagos there lay a unique and puzzling beast now extinct from the mainland. It is a shaggy and powerful beast that has replaced the horse in this part of the world. On its head is a single long horn that is highly valued by traders across the known world. The Skagosi ride this beast into battle whenever conflict calls, and together Skagosi and beast feast on the flesh of their slain foes.\n\nThis beast is none other than the #bold unicorn#!. A ferocious beast capable of holding its own against the likes of even direwolves, the unicorn is no beast to tempt. And this is why the Skagosi have domesticated them."
- agot_filler_north.0038.a:0 "Skagos seems like a thrilling place; I would like to visit one day."
- agot_filler_north.0038.b:0 "I think I'll stick to my ordinary, mainlander horses."
- agot_filler_north.0038.c:0 "What a fascinating tale."
- agot_filler_north.0038.d:0 "Obviously an over-exaggerated tale."
-
-##################################################
-#   ICE FISHING EXPERIENCE - SMALL FOLK FISHING  #
-##################################################
-
- agot_filler_north.0039.t:0 "Ice Fishing"
- agot_filler_north.0039.desc:0 "During a walk through my domain, I come upon some frozen ponds. When the temperature is warmer, these are usually a great spot to go fishing. But it seems that even the colder climate has not deterred some smallfolk from trying their luck with ice fishing. It looks like they've punctured some holes to reach the water beneath the thick ice...\n\nI walk closer and take a look at their catches and equipment. They quickly notice me and immediately strike up a conversation about how well stocked the ponds are and how good the fishing is. One man even tells me he is here with his young son who has never been fishing before!"
- agot_filler_north.0039.a:0 "What have you caught so far?"
- agot_filler_north.0039.b:0 "Can I join you folks?"
- agot_filler_north.0039.c:0 "You have no right fishing on my land, in my ponds!"
+ agot_filler_north.0037.t:0 "Eislaufen durch den Norden"
+ agot_filler_north.0037.desc:0 "Mein Interesse wurde durch Gelehrtenberichte über Nordmänner geweckt, die mit Schlittschuhen, die aus den Knochen von Schafen und Pferden gefertigt wurden, über die weiten Strecken der eisigen Einöde gleiten. Offenbar handelt es sich dabei um eine uralte Reisemethode, die in einigen Teilen des Nordens im Winter genutzt wird, um Handel zu treiben und andere Dörfer zu erreichen. In einem Bericht wird sogar behauptet, dass diese Methode seit der Besiedlung des Nordens durch die ersten Menschen praktiziert wird!"
+ agot_filler_north.0037.a:0 "Der Winter bringt uns wirklich dazu, einfallsreich zu sein."
+ agot_filler_north.0037.b:0 "Faszinierend, aber ich bleibe bei dem guten alten Schlitten."
+ agot_filler_north.0037.c:0 "Können wir dies zur Unterstützung unserer Armeen bei den Feldzügen im Norden übernehmen?"
 
 ############################################
-#   NORTHERN CAMPING STORIES - THE OTHERS  #
+#   SAGEN VON EINHÖRNERN AUF SKAGOS  #
 ############################################
 
- agot_filler_north.0040.t:0 "Legends of the North"
- agot_filler_north.0040.desc:0 "The campfire roars with life as I take my seat next to the others. Spending a week in the woods completely away from court and from ruling—and from the small issues in life — is something most in my position can only dream of. But in the North, this is our tradition. Our heritage.\n\nThe moon is high over our heads, and our host, a man named Beron, looks up from the fire with a ghastly scowl.\n\n"My friends," he says, the fire dancing in the black of his eyes, "they say there is a legend about these woods. A frightening and old legend. Do you all know it?" The men grunt their collective no's and prompt him to share it.\n\n"Long ago, hunters and foragers avoided these woods as if it were filled with dragons. The lord of these woods was puzzled; it had good game to hunt and nice berries to forage. So, he ventured into the woods to find out why it was like poison to his folk."\n\n"In these woods, he searched many days and nights for any signs. But he came up with nothing at every turn. Until one night, just like this one, when the moon was high in the sky, he felt an icy and ominous wind. Suddenly, from behind him, he saw none other than an #italic Other#!, come to kill him-"\n\nOut of nowhere, you and your companions here some rustling from the bushes... Beron gasps as someone jumps out from the bushes, screaming wildly at you all! You can hear Beron laughing wildly over the man's screaming!"
+ agot_filler_north.0038.t:0 "Einhörner auf Skagos"
+ agot_filler_north.0038.desc:0 "Auf der Insel Skagos lebte der Sage nach ein einzigartiges und rätselhaftes Tier, das auf dem Festland bereits ausgestorben ist. Es ist ein zotteliges und mächtiges Tier, das in diesem Teil der Welt das Pferd ersetzt hat. Auf seinem Kopf befindet sich ein einziges langes Horn, das von Händlern in der ganzen bekannten Welt sehr geschätzt wird. Die Skagosi reiten auf dieser Bestie in die Schlacht, wann immer ein Gefecht ansteht, und gemeinsam verzehren Skagosi und Bestie das Fleisch ihrer erschlagenen Feinde.\n\nDiese Bestie ist nichts anderes als das #bold Einhorn#! Das Einhorn ist eine wilde Bestie, die es sogar mit Schattenwölfen aufnehmen kann, und kein Tier, das man in Versuchung führen sollte. Und deshalb haben die Skagosi es gezähmt."
+ agot_filler_north.0038.a:0 "Skagos scheint ein faszinierender Ort zu sein; ich würde ihn gerne einmal besuchen."
+ agot_filler_north.0038.b:0 "Ich glaube, ich bleibe bei meinen normalen Pferden vom Festland."
+ agot_filler_north.0038.c:0 "Was für eine faszinierende Geschichte."
+ agot_filler_north.0038.d:0 "Offensichtlich ein überzogenes Märchen."
+
+##################################################
+#   ERLEBNIS EISFISCHEN - FISCHEN GEMEINES VOLK  #
+##################################################
+
+ agot_filler_north.0039.t:0 "Eisfischen"
+ agot_filler_north.0039.desc:0 "Bei einem Spaziergang durch mein Land stoße ich auf einige zugefrorene Teiche. Bei wärmeren Temperaturen sind diese gewöhnlich ein guter Ort zum Angeln. Aber es scheint, dass selbst das kältere Klima einige des Gemeinen Volkes nicht davon abgehalten hat, ihr Glück beim Eisfischen zu versuchen. Es sieht so aus, als hätten sie ein paar Löcher gebohrt, um das Wasser unter dem dicken Eis zu erreichen...\n\n Ich nähere mich und werfe einen Blick auf ihre Fänge und ihre Ausrüstung. Sie nehmen schnell Notiz von mir und kommen sofort ins Gespräch darüber, wie gut die Teiche mit Fischen bestückt sind und wie erfolgreich das Fischen ist. Ein Mann erzählt mir sogar, dass er mit seinem kleinen Sohn hier ist, der noch nie geangelt hat!"
+ agot_filler_north.0039.a:0 "Was habt ihr bis jetzt gefangen?"
+ agot_filler_north.0039.b:0 "Darf ich mich zu euch gesellen?"
+ agot_filler_north.0039.c:0 "Ihr habt kein Recht, auf meinem Land und in meinen Teichen zu fischen!"
+
+####################################################
+#   LAGERGESCHICHTEN AUS DEM NORDEN - DIE ANDEREN  #
+####################################################
+
+ agot_filler_north.0040.t:0 "Sagen des Nordens"
+ agot_filler_north.0040.desc:0 "Das Lagerfeuer brennt lichterloh, als ich neben den anderen Platz nehme. Eine Woche in den Wäldern zu verbringen, völlig losgelöst vom Hof und vom Herrschen - und von den kleinen Problemen des Lebens - ist etwas, wovon die meisten in meiner Position nur träumen können. Aber im Norden ist das unsere Tradition. Unser Erbe.\n\n Der Mond steht hoch über unseren Köpfen, und unser Gastgeber, ein Mann namens Beron, blickt mit finsterer Miene vom Feuer auf.\n\n "Meine Freunde", sagt er, während das Feuer im Schwarz seiner Augen tanzt, "man sagt, es gibt eine Sage über diese Wälder. Eine beängstigende und alte Sage. Kennt ihr sie alle?" Die Männer murmeln ein kollektives Nein und fordern ihn auf, sie zu erzählen.\n\n "Vor langer Zeit mieden Jäger und Sammler diese Wälder, als ob sie von Drachen bevölkert wären. Der Herr dieser Wälder war irritiert, denn hier gab es gutes Wild zu jagen und leckere Beeren zu ernten. Also wagte er sich in den Wald, um herauszufinden, warum er für seine Leute wie Gift war."\n\n "In diesen Wäldern suchte er viele Tage und Nächte nach irgendwelchen Anzeichen. Aber er fand nichts, wohin er auch blickte. Bis er eines Nachts, als der Mond hoch am Himmel stand, einen eisigen und bedrohlichen Wind spürte. Plötzlich sah er hinter sich keinen Geringeren als einen #italic Anderen#, der gekommen war, um ihn zu töten-"\n\n Aus dem Nichts hören du und deine Begleiter ein Rascheln im Gebüsch... Beron schnappt nach Luft, als jemand aus dem Dickicht springt und euch wild schreiend angreift! Du kannst hören, wie Beron wild über das Geschrei des Mannes lacht!"
  agot_filler_north.0040.a:0 "AHHHHHH!"
- agot_filler_north.0040.b:0 "RUN AWAY! ALL THE WAY HOME!"
- agot_filler_north.0040.c:0 "AHAH, great joke, Beron!"
+ agot_filler_north.0040.b:0 "FLIEHT! AUF DIREKTEM WEG NACH HAUSE!"
+ agot_filler_north.0040.c:0 "AHAH, toller Streich, Beron!"
 
 ############################################
-#   ICE FISHING EXPERIENCE - SOLO FISHING  #
+#   ERLEBNIS EISFISCHEN - SOLOFISCHEN  #
 ############################################
 
- agot_filler_north.0041.t:0 "Ice Fishing"
- agot_filler_north.0041.desc:0 "I'm taking the day off to go ice fishing! Some nearby ponds have frozen over, and I've decided it will be a nice stress reliever to get out in the wild, by myself.\n\nAs I throw my fishing line into the water, I hear creaking and cracking... it immediately dawns on me... #bold the ice beneath me is cracking!#!\n\nI leap from my seat and try to run back to solid ground, but I feel the frigid water at my feet and suddenly — #bold SPLOOSH#! I'm sinking to the bottom!"
- agot_filler_north.0041.a:0 "Help, someone help!"
- agot_filler_north.0041.b:0 "Swim, swim! As hard as you can!"
- agot_filler_north.0041.drowning.toast.title:0 "No one can hear you scream."
- agot_filler_north.0041.drowning.toast.alternate.title:0 "A mysterious stranger saves you."
+ agot_filler_north.0041.t:0 "Eisfischen"
+ agot_filler_north.0041.desc:0 "Ich nehme mir den Tag frei, um Eisfischen zu gehen! Einige Teiche in der Nähe sind zugefroren, und ich habe beschlossen, dass es eine nette Entspannung sein wird, allein in der Wildnis zu sein.\n\n Als ich meine Angelschnur ins Wasser werfe, höre ich ein Knarren und Knacken... es dämmert mir sofort... \n\n Ich springe von meinem Platz auf und versuche, zurück auf festen Boden zu laufen, aber ich spüre das eiskalte Wasser an meinen Füßen und plötzlich - #bold PLATSCH#! sinke ich auf den Grund!"
+ agot_filler_north.0041.a:0 "Hilfe, so helft mir doch!"
+ agot_filler_north.0041.b:0 "Schwimmen...schwimmen! So schnell du kannst!"
+ agot_filler_north.0041.drowning.toast.title:0 "Keiner kann Euch schreien hören."
+ agot_filler_north.0041.drowning.toast.alternate.title:0 "Ein geheimnisvoller Fremder rettet euch."
 
-##########################
-#   WOLF ATTACK - NORTH  #
-##########################
+############################
+#   WOLFSANGRIFF - NORDEN  #
+############################
 
 #############################################
-#   Peasant and the Wight #Zombieschrodcat  #
+#   Bauer und der Wiedergänger #Zombieschrodcat  #
 #   0043-0050                               #
 #############################################
 
- agot_filler_north.0043.t:0 "The Peasant and the Wight"
- agot_filler_north.0043.desc:0 "A man enters your court leading a unusally pale woman bound by her hands. He claims hunters found the woman, whom he refers to as the wight, in the woods covered in the blood of a dead hunter. The woman trys to defend herself, claiming she was picking herbs when she found the wounded hunter and tried to save him after he was attacked by a wolf.\n\nThe man warns you to ignore her pleas — she is a wight; recall the legend of the Night's King and the danger she could present."
- agot_filler_north.0043.a:0 "Who was the Night's King again?"
- agot_filler_north.0043.b:0 "The realm thanks you!"
- agot_filler_north.0043.c:0 "The wights of legend have blue eyes, you fool!"
- agot_filler_north.0043.d:0 "This poor girl has suffered enough!"
+ agot_filler_north.0043.t:0 "Der Bauer und der Wiedergänger"
+ agot_filler_north.0043.desc:0 "Ein Mann betritt euren Hof und führt eine ungewöhnlich blasse Frau an den Händen angebunden, vor sich her. Er behauptet, Jäger hätten die Frau, die er als Wiedergänger bezeichnet, im Wald gefunden, wo sie mit dem Blut eines toten Jägers bedeckt war. Die Frau versucht sich zu rechtfertigen und behauptet, sie habe Kräuter gepflückt, als sie den verwundeten Jäger fand, und habe versucht, ihn zu retten, nachdem er von einem Wolf angegriffen worden war.\n\n Der Mann warnt Euch, ihre Beteuerungen zu ignorieren - sie sei eine Wiedergänger; erinnert Euch an die Sagen vom Nachtkönig und die Gefahr, die seinesgleichen darstellen."
+ agot_filler_north.0043.a:0 "Wer war noch mal der Nachtkönig?"
+ agot_filler_north.0043.b:0 "Das Reich dankt euch!"
+ agot_filler_north.0043.c:0 "Die Wiedergänger aus der Sage haben blaue Augen, du Narr!"
+ agot_filler_north.0043.d:0 "Dieses arme Mädchen hat schon genug gelitten!"
 
- agot_filler_north.0044.t:0 "Legend: The Night's King"
- agot_filler_north.0044.desc:0 "Legends hold that the Night's King was the thirteenth Lord Commander of the Night's Watch. Some claim he was seduced by a pale woman — an Other or a wight — and she led him to declare himself a King and to rule the Wall with cruelty and dark magic. The Night's King reign finally ended when the King of Winter and the King-Beyond-the-Wall made common cause and fought a war to remove him from power."
- agot_filler_north.0044.a:0 "Ah! Yes, the Night's King."
+ agot_filler_north.0044.t:0 "Sage: Der Nachtkönig"
+ agot_filler_north.0044.desc:0 "Die Sage besagt, dass der Nachtkönig der dreizehnte Lord Kommandant der Nachtwache war. Einige behaupten, dass er von einer bleichen Frau - einer Anderen oder einem Geist - verführt wurde und sie ihn dazu brachte, sich selbst zum König zu erklären und die Mauer mit Grausamkeit und dunkler Magie zu beherrschen. Die Herrschaft des Nachtkönigs endete schließlich, als der König des Winters und der König jenseits der Mauer sich verbündeten und einen Krieg führten, um ihn zu besiegen."
+ agot_filler_north.0044.a:0 "Ah! Ja, der Nachtkönig."
 
- agot_filler_north.0045.t:0 "Her Embrace: Night"
- agot_filler_north.0045.desc:0 "Sometimes I wander the castle halls during restless nights. Normally few people are out so late except a few guards, yet tonight I encounter [palebride.GetFirstNameNoTooltip] also wandering the halls. She approaches me and whispers such things that my blood boils with desire. She gives me a sly smile and I follow her, and soon the two of us are tangled in the sheets of a guest room."
- agot_filler_north.0045.a:0 "Her eyes look almost blue..."
+ agot_filler_north.0045.t:0 "Ihre Umarmung: Nacht"
+ agot_filler_north.0045.desc:0 "Manchmal streife ich in unruhigen Nächten durch die Burghallen. Normalerweise sind nur wenige Leute so spät unterwegs, außer ein paar Wachen, doch heute Nacht treffe ich auf [palebride.GetFirstNameNoTooltip], die ebenfalls durch die Hallen wandert. Sie kommt auf mich zu und flüstert mir Dinge zu, die mein Blut vor Verlangen kochen lassen. Sie schenkt mir ein verschmitztes Lächeln, und ich folge ihr, und bald sind wir beide in den Laken eines Gästezimmers verfangen."
+ agot_filler_north.0045.a:0 "Ihre Augen sind fast blau..."
 
- agot_filler_north.0046.t:0 "Her Embrace: Morning"
- agot_filler_north.0046.desc:0 "When dawn comes, [palebride.GetFirstNameNoTooltip] is no where to be found. The guards search the castle to no avail. That night changed me somehow, I feel. When I try to recall her beauty, all I can see is the deep blue of her eyes like the coldest ice, but weren't her eyes red?\n\nPerhaps [thug.GetFirstNameNoTooltip] was right with his warning..."
- agot_filler_north.0046.a:0 "Bitterness or something else..."
+ agot_filler_north.0046.t:0 "Ihre Umarmung: Morgen"
+ agot_filler_north.0046.desc:0 "Als die Morgendämmerung einsetzt, ist [palebride.GetFirstNameNoTooltip] nicht auffindbar. Die Wachen durchsuchen die Burg vergeblich. Diese Nacht hat mich irgendwie verändert, das spüre ich. Wenn ich versuche, mich an ihre Schönheit zu erinnern, kann ich nur das tiefe Blau ihrer Augen sehen, wie das kälteste Eis, aber waren ihre Augen nicht eigentlich rot?\n\nVielleicht hatte [thug.GetFirstNameNoTooltip] recht mit seiner Warnung..."
+ agot_filler_north.0046.a:0 "Verbitterung oder etwas anderes..."
 
- agot_filler_north.0047.t:0 "Nightmare of Her"
- agot_filler_north.0047.desc:0 "The nightmare has been the same the past few nights since [palebride.GetFirstNameNoTooltip] was executed. I am wandering the castle at night, shivering from the cold. As I approach an open window to close the shutters, I see her. She is standing the in courtyard as it snows, staring up at me. Her eyes are blue in the dream, not red, an unnatrual blue..."
- agot_filler_north.0047.a:0 "Her... eyes are... blue!"
+ agot_filler_north.0047.t:0 "Alptraum von ihr"
+ agot_filler_north.0047.desc:0 "Seit der Hinrichtung von [palebride.GetFirstNameNoTooltip] hat sich der Albtraum in den letzten Nächten immer wieder wiederholt. Ich wandere nachts durch die Burg und zittere vor Kälte. Als ich mich einem offenen Fenster nähere, um die Fensterläden zu schließen, sehe ich sie. Sie steht im Innenhof, während es schneit, und starrt zu mir hoch. Ihre Augen sind in dem Traum blau, nicht rot, ein unnatürliches Blau..."
+ agot_filler_north.0047.a:0 "Ihre... Augen sind... blau!"
 
- agot_filler_north.0048.t:0 "A Show of Gratitude"
- agot_filler_north.0048.desc:0 "[palebride.GetFirstNameNoTooltip] approached me today. She told me that she has been grateful to me ever since that day I saved her from [thug.GetFirstNameNoTooltip]. [palebride.GetFirstNameNoTooltip] said she wishes she could repay me somehow for all I have done for her."
- agot_filler_north.0048.a:0 "Can you teach me the healing arts?"
- agot_filler_north.0048.b:0 "Can you teach me how to garden?"
- agot_filler_north.0048.c:0 "I did what was needed."
+ agot_filler_north.0048.t:0 "Ein Zeichen der Dankbarkeit"
+ agot_filler_north.0048.desc:0 "[palebride.GetFirstNameNoTooltip] hat mich heute aufgesucht. Sie berichtete mir, dass sie mir seit dem Tag, an dem ich sie vor [thug.GetFirstNameNoTooltip] gerettet habe, dankbar ist. [palebride.GetFirstNameNoTooltip] sagte, sie wünschte, sie könnte sich irgendwie bei mir für alles, was ich für sie getan habe, erkenntlich zeigen."
+ agot_filler_north.0048.a:0 "Könnt ihr mich die Heilkunst lehren?"
+ agot_filler_north.0048.b:0 "Könnt ihr mich die Gartenarbeit lehren?"
+ agot_filler_north.0048.c:0 "Ich tat, was nötig war."
 
- agot_filler_north.0049.t:0 "A Show of Gratitude: Healing"
- agot_filler_north.0049.desc:0 "Weeks have past by as [palebride.GetFirstNameNoTooltip] has taught me about the human body and various treatments for ailments. Slowly I have come to grasp an understanding of the healing arts."
- agot_filler_north.0049.a:0 "I have learned much, thank you!"
+ agot_filler_north.0049.t:0 "Ein Zeichen der Dankbarkeit: Heilkunst"
+ agot_filler_north.0049.desc:0 "Wochen sind vergangen, in denen [palebride.GetFirstNameNoTooltip] mich über den menschlichen Körper und verschiedene Behandlungsmethoden für Krankheiten belehrte. Allmählich habe ich ein Verständnis für die Heilkunst entwickelt."
+ agot_filler_north.0049.a:0 "Ich habe viel gelernt, danke!"
 
- agot_filler_north.0050.t:0 "A Show of Gratitude: Gardening"
- agot_filler_north.0050.desc:0 "[palebride.GetFirstNameNoTooltip] and I have been diligent in the garden. Not only has [palebride.GetFirstNameNoTooltip] been showing me how to garden, but she has also been intructing me in the various uses of some of the plants."
- agot_filler_north.0050.a:0 "I have learned much, thank you!"
+ agot_filler_north.0050.t:0 "Ein Zeichen der Dankbarkeit: Gartenarbeit"
+ agot_filler_north.0050.desc:0 "[palebride.GetFirstNameNoTooltip] und ich haben eifrig im Garten gearbeitet. [palebride.GetFirstNameNoTooltip] hat mir nicht nur gezeigt, wie man gärtnert, sondern sie hat mich auch in die verschiedenen Verwendungsmöglichkeiten einiger Pflanzen unterwiesen."
+ agot_filler_north.0050.a:0 "Ich habe viel gelernt, danke!"
 
 #############################################
-#   Confessor             #Zombieschrodcat  #
+#   Beichtvater           #Zombieschrodcat  #
 #   0052-0053                               #
 #############################################
 
- agot_filler_north.0052.t:0 "The Confessor"
- agot_filler_north.0052.desc:0 "[confessor.GetFirstNameNoTooltip] confessed to my guards that he murdered and robbed a traveler who was staying at his home. The traveler had broken bread and salt with [confessor.GetFirstNameNoTooltip] and was protected by guest right.\n\n[confessor.GetFirstNameNoTooltip] admits he was unpious until after the murder, when he began seeing a large white rat in his home. He now wants to make amends with the gods and receive the justice due to him for his crimes."
- agot_filler_north.0052.a:0 "A white rat?"
- agot_filler_north.0052.a.tt:0 "Perhaps you can recall the legend..."
- agot_filler_north.0052.b:0 "There is only one way to atone!"
- agot_filler_north.0052.b.tt:0 "Blood must be pay with blood, you'll swing the sword... "
- agot_filler_north.0052.c:0 "Give me the gold, and all is forgiven."
- agot_filler_north.0052.c.tt:0 "Everything has its price..."
- agot_filler_north.0052.d:0 "Guards arrest him!"
- agot_filler_north.0052.d.tt:0 "You will decide his fate later, or let him spend his last days in a cell."
+ agot_filler_north.0052.t:0 "Der Beichtvater"
+ agot_filler_north.0052.desc:0 "[confessor.GetFirstNameNoTooltip] hat meinen Wachen gestanden, dass er einen Reisenden, der bei ihm übernachtet hat, ermordet und ausgeraubt hat. Der Reisende hatte mit [confessor.GetFirstNameNoTooltip] gemeinsam Brot und Salz gebrochen und stand unter dem Schutz des Gastrechts.\n\n[confessor.GetFirstNameNoTooltip] gesteht, dass er vor dem Mord nicht Fromm war, bis er danach begann, eine große weiße Ratte in seinem Heim zu sehen. Er will nun bei den Göttern Wiedergutmachung leisten und die Gerechtigkeit erhalten, die ihm für seine Verbrechen zusteht."
+ agot_filler_north.0052.a:0 "Eine weiße Ratte?"
+ agot_filler_north.0052.a.tt:0 "Ihr erinnert euch möglicherweise an diese Sage..."
+ agot_filler_north.0052.b:0 "Es gibt nur einen Weg, um Buße zu tun!"
+ agot_filler_north.0052.b.tt:0 "Blut muss mit Blut bezahlt werden, ihr werdet das Schwert führen..."
+ agot_filler_north.0052.c:0 "Gebt mir das Gold, und alles ist vergeben."
+ agot_filler_north.0052.c.tt:0 "Alles hat seinen Preis..."
+ agot_filler_north.0052.d:0 "Wachen ergreift ihn!"
+ agot_filler_north.0052.d.tt:0 "Ihr werdet später über sein Schicksal entscheiden, oder er wird seine letzten Tage im Kerker verbringen."
 
- agot_filler_north.0053.t:0 "Legends: The Rat Cook"
- agot_filler_north.0053.desc:0 "A legend originating from the Night's Watch about a cook at the Nightfort who served an Andal King a pie made from his own son. This act of revenge did not anger the gods — but the murder of the prince who was a guest of the Night's Watch did. As punishment, the gods turned the cook into a large white rat that is said to still haunt the abandoned Nightfort."
- agot_filler_north.0053.a:0 "Ah, now I remember the song."
- agot_filler_north.0053.a.tt:0 "Now, you return back to the judgment."
+ agot_filler_north.0053.t:0 "Legenden: Der Rattenkoch"
+ agot_filler_north.0053.desc:0 "Eine aus der Nachtwache stammende Sage über einen Koch der Nachtfeste, der einem andalischen König eine Torte servierte, die aus seinem eigenen Sohn bestand. Dieser Racheakt erzürnte die Götter nicht - wohl aber der Mord an dem Prinzen, der Gast der Nachtwache war. Zur Strafe verwandelten die Götter den Koch in eine große weiße Ratte, von der es heißt, dass sie noch immer in dem verlassenen Nachtfeste herumspukt."
+ agot_filler_north.0053.a:0 "Ah, jetzt erinnere ich mich an das Lied."
+ agot_filler_north.0053.a.tt:0 "Nun denn, ihr kehrt zur Urteilsfindung zurück."
  
- agot_filler_north.0054.t:0 "The Confessor"
- agot_filler_north.0054.desc:0 "[confessor.GetFirstNameNoTooltip] confessed to my guards that he murdered and robbed a traveler who was staying at his home. The traveler had broken bread and salt with [confessor.GetFirstNameNoTooltip] and was protected by guest right.\n\n[confessor.GetFirstNameNoTooltip] admits he was unpious until after the murder, when he began seeing a large white rat in his home. He now wants to make amends with the gods and receive the justice due to him for his crimes."
- agot_filler_north.0054.a:0 "There is only one way to atone!"
- agot_filler_north.0054.a.tt:0 "Blood must be pay with blood, you'll swing the sword... "
- agot_filler_north.0054.b:0 "Give me the gold, and all is forgiven."
- agot_filler_north.0054.b.tt:0 "Everything has its price..."
- agot_filler_north.0054.c:0 "Guards arrest him!"
- agot_filler_north.0054.c.tt:0 "You will decide his fate later, or let him spend his last days in a cell."
+ agot_filler_north.0054.t:0 "Der Beichtvater"
+ agot_filler_north.0054.desc:0 "[confessor.GetFirstNameNoTooltip] hat meinen Wachen gestanden, dass er einen Reisenden, der bei ihm übernachtet hat, ermordet und ausgeraubt hat. Der Reisende hatte mit [confessor.GetFirstNameNoTooltip] gemeinsam Brot und Salz gebrochen und stand unter dem Schutz des Gastrechts.\n\n[confessor.GetFirstNameNoTooltip] gesteht, dass er vor dem Mord nicht Fromm war, bis er danach begann, eine große weiße Ratte in seinem Heim zu sehen. Er will nun bei den Göttern Wiedergutmachung leisten und die Gerechtigkeit erhalten, die ihm für seine Verbrechen zusteht."
+ agot_filler_north.0054.a:0 "Es gibt nur einen Weg, um Buße zu tun!"
+ agot_filler_north.0054.a.tt:0 "Blut muss mit Blut bezahlt werden, ihr werdet das Schwert führen... "
+ agot_filler_north.0054.b:0 "Gebt mir das Gold, und alles ist vergeben."
+ agot_filler_north.0054.b.tt:0 "Alles hat seinen Preis..."
+ agot_filler_north.0054.c:0 "Wachen ergreift ihn!"
+ agot_filler_north.0054.c.tt:0 "Ihr werdet später über sein Schicksal entscheiden, oder er wird seine letzten Tage im Kerker verbringen."
+
+#######################################
+# Nord:Bibliothek - by Zombieschrodcat#
+#           0055 - 0061               #
+#######################################
+
+ agot_filler_north.0055.t:0 "Die Bibliothek: Der Norden"
+ agot_filler_north.0055.desc:0 "Meine Nächte sind unruhig, was zum Teil an dem Stress liegt, mit dem ich in letzter Zeit zu tun hatte. Mein Geist scheint nicht in der Lage zu sein, den Stress des Herrschens auch nur für einen kurzen Moment der Ruhe zu ignorieren.\n\nAls ich heute Nacht durch die Burg wanderte, fand ich mich in der Bibliothek wieder. Vielleicht könnte ein gutes Buch meinen Geist ablenken?"
+ agot_filler_north.0055.a:0 "Mal sehen, wie wäre es hiermit?"
+ agot_filler_north.0055.a.tt:0 Ein gutes Buch kann euch von euren Problemen ablenken, oder auch nicht."
+ agot_filler_north.0055.b:0 "Hm, oder vielleicht dieses?"
+ agot_filler_north.0055.b.tt:0 "Ein gutes Buch kann euch von euren Problemen ablenken, oder auch nicht."
+
+ agot_filler_north.0056.t:0 "Die Bibliothek: Hartheim"
+ agot_filler_north.0056.desc:0 "#bold Hartheim: Ein Buch über drei Jahre jenseits der Mauer unter Wilden, Räubern und Waldhexen#! von Maester Wyllis. Das Buch beschreibt das tägliche Leben in der unglückseligen und einzigen Stadt, die vor ihrer rätselhaften Zerstörung jenseits der Mauer existierte. Maester Wyllis hätte mehr über die Siedlung berichten können, wenn sein Beschützer Grom der Wolf, ein Häuptling der Wildlinge, nicht in einer Schlägerei gestorben wäre. Ohne seinen Beschützer war Maester Wyllis gezwungen, aus Hartheim zu fliehen."
+ agot_filler_north.0056.a:0 "Eine gute Geschichte!"
+
+ agot_filler_north.0057.t:0 "Die Bibliothek: Vermählung mit dem Meer"
+ agot_filler_north.0057.desc:0 "#bold Vermählung mit dem Meer, ein Buch über die Geschichte von Weißwasserhafen seit seinen frühesten Tagen#! von Maester Yorrick. Das Buch enthält viele Details über Weißwasserhafen - und das Haus Manderly, das es regiert. Dennoch gibt es ein paar merkwürdige Passagen, in denen Maester Yorrick von Blutopfern schreibt, die den alten Göttern dargebracht werden."
+ agot_filler_north.0057.a:0 "Eine gute Geschichte!"
+
+ agot_filler_north.0058.t:0 "Die Bibliothek: Gerechtigkeit und Ungerechtigkeit"
+ agot_filler_north.0058.desc:0 "#bold Gerechtigkeit und Ungerechtigkeit im Norden: Urteile der drei Stark-Lords#! von Maester Egbert. In dem Buch wird erläutert, wie die Verletzung des Gastrechts im Norden als ein dem Verrat gleichgestelltes Verbrechen angesehen wird - und nur der Mord an einem Verwandten könnte als ebenso abscheulich gelten."
+ agot_filler_north.0058.a:0 "Eine gute Geschichte!"
+
+ agot_filler_north.0059.t:0 "Die Bibliothek: Wächter an der Mauer"
+ agot_filler_north.0059.desc:0 "#bold Wächter an der Mauer#! von Erzmaester Harmune. Dieses Buch enthält viele Geschichten über die Nachtfeste und die Sagen, die von den Mitgliedern der Nachtwache erzählt werden. Erzmaester Harmune erzählt ausführlich von Brandon "der Zertrümmerer" Stark, der sich mit dem König hinter der Mauer Joramun verbündet, um den Nachtkönig und seine Leichenfrau zu besiegen."
+ agot_filler_north.0059.a:0 "Eine gute Geschichte!"
+
+ agot_filler_north.0060.t:0 "Die Bibliothek: Die Könige des Winters"
+ agot_filler_north.0060.desc:0 "#bold Die Könige des Winters oder die Legenden und Abstammungen der Starks von Winterfell#! von Maester Childer. Dieses Buch ist dafür bekannt, dass es einen Teil einer verlorenen Ballade über Brandon "den Erbauer" und die Kinder des Waldes enthält. Die Teile dieser verlorenen Ballade erzählen, wie Brandon mit Hilfe der Kinder des Waldes die Mauer errichtete."
+ agot_filler_north.0060.a:0 "Eine gute Geschichte!"
+
+ agot_filler_north.0061.t:0 "Die Bibliothek: Ein schwieriger Wälzer"
+ agot_filler_north.0061.desc:0 "Während ich auf die Tintenlinien starre, dröhnt mein Kopf. Was auch immer dieser Maester mit seinen Schriften bezwecken wollte, entzieht sich mir! Nachdem ich fünfmal dieselbe Zeile gelesen habe, beschließe ich, das Unterfangen abzubrechen und das Buch weiterhin seine Geheimnisse bewahren zu lassen! "
+ agot_filler_north.0061.a:0 "Verflucht sei dieses Buch!"
 
 #####################################
-# North:Library - by Zombieschrodcat#
-#           0055 - 0061             #
-#####################################
-
- agot_filler_north.0055.t:0 "The Library: The North"
- agot_filler_north.0055.desc:0 "My nights have been restless, due in part to the stresses I have dealt with of late. My mind seems incabable of ignoring the stress of ruling for even the briefest moment of rest.\n\nTonight as I wandered the castle I found myself in the library. Perhaps a tome could provide a distraction for my mind?"
- agot_filler_north.0055.a:0 "Let's see, how about this one?"
- agot_filler_north.0055.a.tt:0 "A decent book may help take your mind off your troubles, or may not."
- agot_filler_north.0055.b:0 "Hm, or maybe this one?"
- agot_filler_north.0055.b.tt:0 "A decent book may help take your mind off your troubles, or may not."
-
- agot_filler_north.0056.t:0 "The Library: Hardhome"
- agot_filler_north.0056.desc:0 "#bold Hardhome: An Account of Three Years Spent Beyond-the-Wall among Savages, Raiders, and Woods-witches#! by Maester Wyllis. The tome describes the daily life in the ill-fated and only town to exist beyond the wall before its mysterious destruction. Maester Wyllis might have provided more on the settlement if his protector Grom the Wolf, a Wildling Chieftain, had not died in a brawl. Without his protector Maester Wyllis was forced to flee Hardhome."
- agot_filler_north.0056.a:0 "A good read!"
-
- agot_filler_north.0057.t:0 "The Library: Wed to the Sea"
- agot_filler_north.0057.desc:0 "#bold Wed to the Sea, Being an Account of the History of White Harbor from Its Earliest Days#! by Maester Yorrick. The tome goes into much detail about White Harbor — and House Manderly who rule it. Still, there are a few odd passages where Maester Yorrick writes of blood sacrifices being preformed to the old gods."
- agot_filler_north.0057.a:0 "A good read!"
-
- agot_filler_north.0058.t:0 "The Library: Justice and Injustice"
- agot_filler_north.0058.desc:0 "#bold Justice and Injustice in the North: Judgments of Three Stark Lords#! by Maester Egbert. The tome explores how a violation of guest right in the North is considered a crime on par with treason — and only kinslaying could be considered as horrible."
- agot_filler_north.0058.a:0 "A good read!"
-
- agot_filler_north.0059.t:0 "The Library: Watchers on the Wall"
- agot_filler_north.0059.desc:0 "#bold Watchers on the Wall#! by Archmaester Harmune. This tome holds many tales about the Nightfort, and the legends told by members of the Night's Watch. Archmaester Harmune goes into detail about Brandon "the Breaker" Stark allying with the King-Beyond-the-Wall Joramun to defeat the Night's King and his corpse bride."
- agot_filler_north.0059.a:0 "A good read!"
-
- agot_filler_north.0060.t:0 "The Library: Winter's Kings"
- agot_filler_north.0060.desc:0 "#bold Winter's Kings, or the Legends and Lineages of the Starks of Winterfell#! by Maester Childer. This tome is well known for containing a piece of a lost ballad about Brandon "the Builder" and the Children of the Forest. The pieces of this lost ballad tell how Brandon, with aid from the Children of the Forest, constructed the Wall."
- agot_filler_north.0060.a:0 "A good read!"
-
- agot_filler_north.0061.t:0 "The Library: A Difficult Tome"
- agot_filler_north.0061.desc:0 "As I stare at the lines of ink, my head throbs. Whatever this maester was trying to get at in his writings eludes me! After rereading the same line five times, I decide to abandon the endeavor; let the tome keep its secrets! "
- agot_filler_north.0061.a:0 "Damn this book!"
-
-#####################################
-# Shadowcat - by Zombieschrodcat#
+# Schattenkatze - by Zombieschrodcat#
 #           0062 - 0067             #
 #####################################
 
- agot_filler_north.0062.t:0 "The Shadowcat"
- agot_filler_north.0062.desc:0 "While out for a ride, I break from my party to relieve myself. My guards stay back so I may have some privacy. As I finish and prepare to return to the group, I notice a shadowcat staring at me a few feet away."
- agot_filler_north.0062.a:0 "HELP! SOMEONE HELP ME!"
- agot_filler_north.0062.a.tt:0 "Hopefully my men will hear my pleas and come to my aid!"
- agot_filler_north.0062.b:0 "*Draws steel*"
- agot_filler_north.0062.b.tt:0 "Shadowcats are fast, hopefully you are faster!"
- agot_filler_north.0062.c:0 "Easy there, kitty."
- agot_filler_north.0062.c.tt:0 "As a hunter, you know best how to handle this situation... #italic You hope.#!"
- agot_filler_north.0062.d:0 "Aren't you a beauty?"
- agot_filler_north.0062.d.tt:0 "The poor thing is just looking for a meal."
- agot_filler_north.0062.e:0 "*Stares back*"
- agot_filler_north.0062.e.tt:0 "You are not someone easy to frighten, though you have a reputation as one to be feared."
- agot_filler_north.0062.f:0 "*hicup* Aren't you a big kitty?"
- agot_filler_north.0062.f.tt:0 "Does kitty like tummy rubs?"
+ agot_filler_north.0062.t:0 "Die Schattenkatze"
+ agot_filler_north.0062.desc:0 "Während eines Ausrittes trenne ich mich von meiner Gruppe, um mich zu erleichtern. Meine Wachen bleiben zurück, damit ich ungestört sein kann. Als ich fertig bin und mich darauf vorbereite, zur Gruppe zurückzukehren, bemerke ich eine Schattenkatze, die mich ein paar Meter entfernt anstarrt."
+ agot_filler_north.0062.a:0 "HILFE! SO HELFT MIR DOCH!"
+ agot_filler_north.0062.a.tt:0 "Hoffentlich hören meine Männer meine Hilferufe und kommen mir zu Hilfe!"
+ agot_filler_north.0062.b:0 "*Zieht den Stahl*"
+ agot_filler_north.0062.b.tt:0 "Schattenkatzen sind schnell, hoffentlich seid ihr schneller!"
+ agot_filler_north.0062.c:0 "Ganz ruhig, Kätzchen."
+ agot_filler_north.0062.c.tt:0 "Als Jäger wisst Ihr am besten, wie man mit einer solchen Situation umgeht... #italic Ihr hofft.#!"
+ agot_filler_north.0062.d:0 "Du bist ja eine Schönheit!"
+ agot_filler_north.0062.d.tt:0 "Das arme Ding sucht doch nur nach einer Mahlzeit."
+ agot_filler_north.0062.e:0 "*Starrt zurück*"
+ agot_filler_north.0062.e.tt:0 "Sie sind nicht leicht zu erschrecken, obwohl Sie den Ruf haben, gefürchtet zu sein."
+ agot_filler_north.0062.f:0 "*Schluckauf* Du bist ja ein großes Kätzchen."
+ agot_filler_north.0062.f.tt:0 "Mag das Kätzchen Bauchkraulen?"
 
- agot_filler_north.0063.t:0 "The Shadowcat"
- agot_filler_north.0063.desc:0 "The sound of steel coming out of the scabbard sends the shadowcat racing toward me — thankfully I draw the blade in time. One slash from the good steel and the shadowcat takes flight away from me."
- agot_filler_north.0063.a:0 "A lesson I hope it remembers!"
- agot_filler_north.0063.a.tt:0 "This will make a impressive story!"
+ agot_filler_north.0063.t:0 "Die Schattenkatze"
+ agot_filler_north.0063.desc:0 "Das Geräusch von Stahl, der aus der Scheide hervortritt, lässt die Schattenkatze auf mich zurasen - zum Glück ziehe ich die Klinge rechtzeitig. Ein Hieb mit dem guten Stahl und die Schattenkatze flieht vor mir."
+ agot_filler_north.0063.a:0 "Eine Lektion, die sie hoffentlich nicht vergisst!"
+ agot_filler_north.0063.a.tt:0 "Das wird eine eindrucksvolle Geschichte abgeben!"
 
- agot_filler_north.0064.t:0 "The Shadowcat"
- agot_filler_north.0064.desc:0 "Taking the ends of my cloak, I raise them up as high as I can. A look of confusion crosses the shadowcat, as I appear to double in size. The beast is no longer so sure I'll be an easy kill. After a brief moment, the shadowcat decides to flee rather than take a chance."
- agot_filler_north.0064.a:0 "This will make quite the story!"
- agot_filler_north.0064.a.tt:0 "Good thing you brought your cloak today!"
+ agot_filler_north.0064.t:0 "Die Schattenkatze"
+ agot_filler_north.0064.desc:0 "Ich nehme die Enden meines Umhangs und hebe sie so hoch, wie ich kann. Ein verwirrter Blick durchfährt die Schattenkatze, als ich mich zu verdoppeln scheine. Die Bestie ist sich nicht mehr so sicher, dass ich eine leichte Beute bin. Nach einem kurzen Moment beschließt die Schattenkatze, lieber zu fliehen, als ein Risiko einzugehen."
+ agot_filler_north.0064.a:0 "Das wird eine tolle Geschichte abgeben!"
+ agot_filler_north.0064.a.tt:0 "Gut, dass ihr heute euren Umhang dabei hattet!"
 
- agot_filler_north.0065.t:0 "The Shadowcat"
- agot_filler_north.0065.desc:0 "The poor thing is a half-starved mother with a litter of kittens, judging from its looks. I retrieve some dried meat that I had brought along for the ride — throwing it to her. She'll not bother me if there is an easier meal..."
- agot_filler_north.0065.a:0 "Hope she finds a deer soon."
- agot_filler_north.0065.a.tt:0 "What a eautiful creature. You must remember to carry more meat with you next time you come this way."
+ agot_filler_north.0065.t:0 "Die Schattenkatze"
+ agot_filler_north.0065.desc:0 "Dem Aussehen nach zu urteilen, ist das arme Ding eine halbverhungerte Mutter mit einem Wurf Jungtiere. Ich hole etwas getrocknetes Fleisch, das ich für die Fahrt mitgebracht hatte, und werfe es ihr zu. Sie wird mich nicht belästigen, wenn es eine leichtere Mahlzeit gibt..."
+ agot_filler_north.0065.a:0 "Hoffentlich findet sie bald ein Reh."
+ agot_filler_north.0065.a.tt:0 "Was für ein hübsches Geschöpf. Ihr müsst daran denken, mehr Fleisch mitzunehmen, wenn Ihr das nächste Mal hierher kommt."
 
- agot_filler_north.0066.t:0 "The Shadowcat"
- agot_filler_north.0066.desc:0 "I lock eyes with the shadowcat — how many had I hunted over the years? Most have been larger and stronger than this one. She is a half-starved mother, no more than two years old. Still, I admire her for a bit. Slowly, she becomes aware of the situation: She is not the dominant predator here. Fear fills her eyes, and she uneasily flees from me."
- agot_filler_north.0066.a:0 "Until we meet again!"
- agot_filler_north.0066.a.tt:0 "What life do you live where even the beasts fear you? Word of this will only grow it."
+ agot_filler_north.0066.t:0 "Die Schattenkatze"
+ agot_filler_north.0066.desc:0 "Ich schaue der Schattenkatze in die Augen - wie viele hatte ich im Laufe der Jahre gejagt? Die meisten waren größer und stärker als diese. Sie ist eine halbverhungerte Mutter, nicht älter als zwei Jahre. Trotzdem bewundere ich sie ein wenig. Langsam wird sie sich der Situation bewusst: Sie ist hier nicht das dominante Raubtier. Angst füllt ihre Augen, und sie flieht ängstlich vor mir."
+ agot_filler_north.0066.a:0 "Bis zum nächsten Mal!"
+ agot_filler_north.0066.a.tt:0 "Was für ein Leben führt Ihr, wenn sogar die Tiere Euch fürchten? Die Nachricht von diesem Ereignis wird sie nur noch vergrößern."
 
- agot_filler_north.0067.t:0 "The Shadowcat"
- agot_filler_north.0067.desc:0 "That has to be...*hicup* the biggest kitty I've ever seen. Come here, #italic kitty, kitty, kitty#!. Do you like to be scratched behind the ear? Wait... ouch... kitty that hurts... OUCH! Kitty, no biting!"
- agot_filler_north.0067.a:0 "Bad kitty!"
- agot_filler_north.0067.a.tt:0 "You thought she would like a tummy rub..."
+ agot_filler_north.0067.t:0 "Die Schattenkatze"
+ agot_filler_north.0067.desc:0 "Das muss *Schluckauf* das größte Kätzchen sein, das ich je gesehen habe. Komm her, #italic miez, miez, miez#! Magst du es, wenn man dich hinter dem Ohr kratzt? Warte... aua... Kätzchen, das tut weh... AUA! Kätzchen, nicht beißen!"
+ agot_filler_north.0067.a:0 "Böses Kätzchen!"
+ agot_filler_north.0067.a.tt:0 "Ihr dachtet, sie würde das Baukraulen mögen..."
 
 #####################################
-#       Mushrooms by Godswood       #
+#       Pilze by Godswood           #
 #        by Zombieschrodcat         #
 #           0068 - 0072             #
 #####################################
@@ -394,7 +394,7 @@
  agot_filler_north.0072.a.tt:0 "More gold in your hands and perhaps, hopefully, the mushroom will be put to aid someone!"
 
 #####################################
-#         tavern new owner         #
+#         Gasthaus neuer Besitzer   #
 #        by Zombieschrodcat         #
 #           0073 - 0078             #
 #####################################
@@ -438,12 +438,12 @@
  agot_filler_north.0078.a.tt:0 "You hope no one learns that you ate some of those pies."
 
 #####################################
-#        Dragon in the North        #
+#        Drache im Norden           #
 #        by Zombieschrodcat         #
 #           0079 - 0081             #
 #####################################
 
- agot_filler_north.0079.t:0 "A Dragon in the North"
+ agot_filler_north.0079.t:0 "Ein Drache im Norden"
  agot_filler_north.0079.desc:0 "[dragon_finder.GetFirstNameNoTooltip] arrives at my court in a panic. The young lad starts ranting about a slumbering dragon within my domain, an accusation which sends the throne room up in laughter. The young lad is not amused — he begs you to act, claiming we are all doomed if the beast should wake!"
  agot_filler_north.0079.a:0 "Get this fool out of here!"
  agot_filler_north.0079.a.tt:0 "At least the lad gave your court a good laugh!"
@@ -454,252 +454,252 @@
  agot_filler_north.0079.d:0 "Let me tell you about dragons, lad."
  agot_filler_north.0079.d.tt:0 "A oppurtunity to educate the lad, and show off your knowledge of the histories!"
 
- agot_filler_north.0080.t:0 "A Dragon in the North: At the Hot Spring"
+ agot_filler_north.0080.t:0 "Ein Drache im Norden: At the Hot Spring"
  agot_filler_north.0080.desc:0 "[dragon_finder.GetFirstNameNoTooltip] continued with his tale. Seems the young lad was gathering wood when he came across a stream that was bubbling up hot water. The lad assumed that only a dragon sleeping underground could cause the water to come out so hot.\n\nI reassured the young man: Everything is fine, there is no dragon, but to be safe I will visit the stream. The next day, I travel to the hot spring and enjoy a relaxing dip in the warm water."
  agot_filler_north.0080.a:0 "Yes, no dragons here."
  agot_filler_north.0080.a.tt:0 "Though you may return to check, and enjoy the warmth of the hot springs."
 
- agot_filler_north.0081.t:0 "A Dragon in the North"
+ agot_filler_north.0081.t:0 "Ein Drache im Norden"
  agot_filler_north.0081.desc:0 "[dragon_finder.GetFirstNameNoTooltip] listens as I recount the history of the Dance of the Dragons, detailing the deaths of the last of the dragons some years after that great war. And how could such a beast have gone unnoticed, as it would need to feed? The young lad seems unsure, but eventually he agrees there is no dragon was in the North."
  agot_filler_north.0081.a:0 "Hopefully he'll be less of a fool."
  agot_filler_north.0081.a.tt:0 "Hopefully he will inform any other smallfolk who have similar fears."
 
 #####################################
-#          Heroic Poacher           #
+#          Heldenhafter Wilderer    #
 #        by Zombieschrodcat         #
 #           0082 - 0083             #
 #####################################
 
- agot_filler_north.0082.t:0 "The Heroic Poacher"
- agot_filler_north.0082.desc:0 "[heroic_poacher.GetFirstNameNoTooltip] is poacher well known to my guards, as he has evaded them for years. While I normally would have no issue deliverying justice to one that has been a thorn in my guards' sides for so long, how [heroic_poacher.GetFirstNameNoTooltip] came into my guards' custody has even my harshest guards asking for mercy. A traveling merchant was held up by highwaymen, but he and his family only survived due to [heroic_poacher.GetFirstNameNoTooltip] fighting off the bandits and escorting the family to safety. There, he was apprehended by my guards. Even the merchant is offering a large sum for the man's safety."
- agot_filler_north.0082.a:0 "[heroic_poacher.GetFirstNameNoTooltip] has turned a blind eye to justice."
- agot_filler_north.0082.a.tt:0 "Despite doing good, they have evade the law, and you cannot allow that. Still, a price can be paid and a reward given to one such as this."
- agot_filler_north.0082.b:0 "I'll take the merchant's gold..."
+ agot_filler_north.0082.t:0 "Der Heldenhafte Wilderer"
+ agot_filler_north.0082.desc:0 "[heroic_poacher.GetFirstNameNoTooltip] ist ein Wilderer, der meinen Wachen wohlbekannt ist, da er sich ihnen seit Jahren entzieht. Normalerweise hätte ich kein Problem damit, jemandem, der meinen Wachen schon so lange ein Dorn im Auge ist, Gerechtigkeit widerfahren zu lassen, aber die Art und Weise, wie [heroic_poacher.GetFirstNameNoTooltip] in den Gewahrsam meiner Wachen kam, lässt selbst meine härtesten Wachen um Nachsicht bitten. Ein reisender Händler wurde von Wegelagerern überfallen, aber er und seine Familie überlebten nur, weil [heroic_poacher.GetFirstNameNoTooltip] die Banditen abwehrte und die Familie in Sicherheit brachte. Dort wurde er dann von meinen Wachen festgenommen. Sogar der Händler bietet eine hohe Summe für die Freilassung des Mannes."
+ agot_filler_north.0082.a:0 "[heroic_poacher.GetFirstNameNoTooltip] hat die Augen vor der Gerechtigkeit verschlossen."
+ agot_filler_north.0082.a.tt:0 "Obwohl er Gutes getan hat, hat er sich dem Gesetz entzogen, und das kann man nicht dulden. Dennoch kann eine Vergütung für einen derartigen Fall gewährt werden."
+ agot_filler_north.0082.b:0 "Ich werde das Gold des Händlers annehmen..."
  agot_filler_north.0082.b.tt:0 "You can forgive the crimes, and the gold should cover the loss of any game from my woods over the years."
  agot_filler_north.0082.c:0 "To hell with poaching, join me!"
  agot_filler_north.0082.c.tt:0 "Forget the crime! The poacher has done a service to your realm, you could use men such as him!"
  agot_filler_north.0082.d:0 "The Wall needs men like you."
  agot_filler_north.0082.d.tt:0 "A criminal with honor is what the Watch needs. If he serves well, and perhaps he will rise the ranks."
 
- agot_filler_north.0083.t:0 "The Heroic Poacher"
+ agot_filler_north.0083.t:0 "Der Heldenhafte Wilderer"
  agot_filler_north.0083.desc:0 "Though it pains me to do it to such a man, the good does not wash out the bad. Since [heroic_poacher.GetFirstNameNoTooltip] has for years turned a blind eye to justices, I took one of his eyes.\n\nAfter the deed is done, I offer a place for [heroic_poacher.GetFirstNameNoTooltip] in my court, promising he would never have to turn to poaching again to make ends meet if he serves me honorably."
  agot_filler_north.0083.a:0 "An eye for an eye."
  agot_filler_north.0083.a.tt:0 "The deed is done. Now that he has joined your court, he will no longer have to turn to crime. The poacher seems to have no ill will to you after taking his eye."
 
 #####################################
-#          The Crevasse             #
+#        Die Gletscherspalte         #
 #        by Zombieschrodcat         #
 #           0084 - 0091             #
 #####################################
 
- agot_filler_north.0084.t:0 "The Crevasse"
- agot_filler_north.0084.desc:0 "While traveling after a heavy snow, the ground suddenly gives way beneath my horses. Moments later, I find myself in a deep crevasse that the snow had hidden. With the cold of night approaching, I know I will not survive until help arrives..."
- agot_filler_north.0084.a:0 "Perhaps I can climb out."
- agot_filler_north.0084.a.tt:0 "There's a risk of falling, but it appears doable."
- agot_filler_north.0084.b:0 "There must be another way..."
- agot_filler_north.0084.b.tt:0 "Perhaps there is another opening..."
+ agot_filler_north.0084.t:0 "Die Gletscherspalte"
+ agot_filler_north.0084.desc:0 "Als ich nach einem starken Schneefall durch die Landschaft reiste, gab der Boden plötzlich unter meinem Pferd nach. Augenblicke später finde ich mich in einer tiefen Gletscherspalte wieder, die der Schnee verborgen hatte. Angesichts der herannahenden Kälte der Nacht weiß ich, dass ich bis zum Eintreffen von Hilfe nicht überleben werde..."
+ agot_filler_north.0084.a:0 "Möglicherweise kann ich herausklettern."
+ agot_filler_north.0084.a.tt:0 "Das Absturzrisiko ist zwar groß, aber es scheint machbar zu sein."
+ agot_filler_north.0084.b:0 "Es muss einen anderen Weg geben..."
+ agot_filler_north.0084.b.tt:0 "Vielleicht gibt es eine andere Möglichkeit..."
 
- agot_filler_north.0085.t:0 "The Crevasse"
- agot_filler_north.0085.desc:0 "The climb is not easy, but I manage. A few times, I thought I might slip and fall to my death, but my grip was strong. I do not stand again until I am well away from the opening of the crevasse — crawling my way to safety."
- agot_filler_north.0085.a:0 "I'm lucky to be alive!"
- agot_filler_north.0085.a.tt:0 "You surived a brush with death today!"
+ agot_filler_north.0085.t:0 "Die Gletscherspalte"
+ agot_filler_north.0085.desc:0 "Der Aufstieg ist nicht einfach, aber es letztendlich gelingt es mir. Ein paar Mal hatte ich das Gefühl, dass ich abrutsche und in den Tod stürzen könnte, aber ich hatte glücklicherweise einen festen Halt. Ich richte mich erst komplett auf, als ich weit genug von der Öffnung der Gletscherspalte entfernt bin - und krieche so in Sicherheit.."
+ agot_filler_north.0085.a:0 "Ich bin froh noch am Leben zu sein!"
+ agot_filler_north.0085.a.tt:0 "Ihr seid heute dem Tod knapp entkommen!"
 
- agot_filler_north.0086.t:0 "The Crevasse"
- agot_filler_north.0086.desc:0 "My heart races as I see sunlight gleaming through the opening of the small cave. I start to run toward it when I see movement... A large #bold bear#! stands between me and my freedom."
- agot_filler_north.0086.a:0 "It will take more than a bear to stop me!"
- agot_filler_north.0086.a.tt:0 "Unfortunately for the beast, you are skilled with a blade!"
- agot_filler_north.0086.b:0 "I must try to make it past the bear..."
- agot_filler_north.0086.b.tt:0 "This will be a fight with risks, but your life is on the line!"
- agot_filler_north.0086.c:0 "*Run away*"
- agot_filler_north.0086.c.tt:0 "There has to be another way!"
+ agot_filler_north.0086.t:0 "Die Gletscherspalte"
+ agot_filler_north.0086.desc:0 "Mein Herz rast, als ich das Sonnenlicht durch die Öffnung der kleinen Höhle schimmern sehe. Ich beginne, darauf zuzulaufen, als ich eine Bewegung sehe... Ein großer #bold Bär#! steht zwischen mir und meiner Freiheit."
+ agot_filler_north.0086.a:0 "Es braucht mehr als einen Bären, um mich aufzuhalten!"
+ agot_filler_north.0086.a.tt:0 "Glücklicherweise bist du sehr geschickt mit der Klinge!"
+ agot_filler_north.0086.b:0 "Ich muss versuchen, an dem Bären vorbeizukommen..."
+ agot_filler_north.0086.b.tt:0 "Das wird ein risikoreicher Kampf, bei dem euer Leben auf dem Spiel steht!"
+ agot_filler_north.0086.c:0 "*Wegrennen*"
+ agot_filler_north.0086.c.tt:0 "Es muss noch einen anderen Weg geben!"
 
- agot_filler_north.0087.t:0 "The Crevasse"
- agot_filler_north.0087.desc:0 "My attempt to find away out of the cave has failed, so I am back where I started. Perhaps I could try another way..."
- agot_filler_north.0087.a:0 "Try to climb out."
- agot_filler_north.0087.a.tt:0 "There's a risk of falling, but it appears doable."
- agot_filler_north.0087.b:0 "Maybe this way..."
- agot_filler_north.0087.b.tt:0 "Perhaps there is another opening..."
+ agot_filler_north.0087.t:0 "Die Gletscherspalte"
+ agot_filler_north.0087.desc:0 "Mein Versuch, aus der Höhle herauszufinden, ist gescheitert, also bin ich wieder da, wo ich angefangen habe. Vielleicht könnte ich einen anderen Weg versuchen..."
+ agot_filler_north.0087.a:0 "Versuche herauszuklettern."
+ agot_filler_north.0087.a.tt:0 "Es besteht eine Absturzgefahr, aber es scheint durchaus machbar."
+ agot_filler_north.0087.b:0 "Vielleicht hier entlang..."
+ agot_filler_north.0087.b.tt:0 "Vielleicht gibt es noch eine andere Öffnung..."
 
- agot_filler_north.0088.t:0 "The Crevasse"
- agot_filler_north.0088.desc:0 "Knowing it was either the bear or I that died tonight, I draw my sword. I swing the sword — at best I will get one or two good hits before the bear mauls me. Thankfully, the gods are on my side, and my inital blow is fatal to the beast. As I step out of the cave, back among the trees and sunlight, I take a deep breath and utter a prayer to the gods."
- agot_filler_north.0088.a:0 "Gods be good, I'm lucky to be alive."
- agot_filler_north.0088.a.tt:0 "This could have been your grave..."
+ agot_filler_north.0088.t:0 "Die Gletscherspalte"
+ agot_filler_north.0088.desc:0 "Da ich weiß, dass entweder der Bär oder ich heute Nacht sterben werden, ziehe ich mein Schwert. Ich schwinge das Schwert - im besten Fall gelingen mir ein oder zwei gute Treffer, bevor mich der Bär zerfleischt. Zum Glück sind die Götter auf meiner Seite, und mein erster Schlag erweist sich als tödlich für das Biest. Als ich aus der Höhle trete, zurück in die Bäume und das Sonnenlicht, atme ich tief durch und spreche ein Gebet zu den Göttern."
+ agot_filler_north.0088.a:0 "Die Götter sind gnädig, ich habe Glück, dass ich noch am Leben bin."
+ agot_filler_north.0088.a.tt:0 "Das hätte auch Euer Grab sein können..."
 
- agot_filler_north.0089.t:0 "The Crevasse"
- agot_filler_north.0089.desc:0 "I give a cry of relief as I see the sunlight coming through a opening. Soon, I am out of the crevasse and on my way back home."
- agot_filler_north.0089.a:0 "I'm lucky to be alive!"
- agot_filler_north.0089.a.tt:0 "This could have been your grave..."
+ agot_filler_north.0089.t:0 "Die Gletscherspalte"
+ agot_filler_north.0089.desc:0 "Ich stoße einen Schrei der Erleichterung aus, als ich das Sonnenlicht durch eine Öffnung dringen sehe. Bald bin ich aus der Gletscherspalte heraus und auf dem Weg zurück in die Heimat."
+ agot_filler_north.0089.a:0 "Ich bin froh noch am Leben zu sein!"
+ agot_filler_north.0089.a.tt:0 "Das hätte auch Euer Grab sein können..."
 
- agot_filler_north.0090.t:0 "The Crevasse"
- agot_filler_north.0090.desc:0 "I have wandered for hours in these maze-like caverns. I know the sun has long set, and the cold is creeping into my bones."
- agot_filler_north.0090.a:0 "So... cold..."
- agot_filler_north.0090.a.tt:0 "As your mind beings to fade, you wonder if anyone will ever find you..."
+ agot_filler_north.0090.t:0 "Die Gletscherspalte"
+ agot_filler_north.0090.desc:0 "Ich bin stundenlang in diesen verzweigten Höhlen umhergewandert. Ich weiß, dass die Sonne längst untergegangen ist, und die Kälte kriecht mir in die Knochen."
+ agot_filler_north.0090.a:0 "So... kalt..."
+ agot_filler_north.0090.a.tt:0 "Während Euer Verstand zu schwinden droht, fragt Ihr Euch, ob Euch jemals jemand finden wird..."
 
- agot_filler_north.0091.t:0 "The Crevasse"
- agot_filler_north.0091.desc:0 "It seems I'm not the only one to fall victim to this crevasse. I have found the remains of another person, though time had left only bones and the clothing on their back. It almost looks like the indiviual is still clutching a leather sack."
- agot_filler_north.0091.a:0 "I'll offer a prayer for the poor soul."
- agot_filler_north.0091.a.tt:0 "The least you could do for one whose fate you may share."
- agot_filler_north.0091.b:0 "Something of value must be in that sack!"
- agot_filler_north.0091.b.tt:0 "This poor fool no longer has any use for it!"
- agot_filler_north.0091.c:0 "Will... that be me..."
- agot_filler_north.0091.c.tt:0 "You fear you are looking at the future that awaits you..."
- agot_filler_north.0091.d:0 "Not the sign I wanted."
- agot_filler_north.0091.d.tt:0 "Will this be your grave?"
+ agot_filler_north.0091.t:0 "Die Gletscherspalte"
+ agot_filler_north.0091.desc:0 "Es scheint, dass ich nicht der einzige bin, der dieser Gletscherspalte zum Opfer gefallen ist. Ich habe die Überreste einer anderen Person gefunden, obwohl die Zeit nur Knochen und die Kleidung auf ihrem Rücken hinterlassen hat. Es sieht fast so aus, als würde die Person immer noch einen Ledersack umklammern."
+ agot_filler_north.0091.a:0 "Ich spreche ein Gebet für die arme Seele."
+ agot_filler_north.0091.a.tt:0 "Das ist das Mindeste, was Ihr für jemanden tun könnt, dessen Schicksal Ihr womöglich ebenso ereilt."
+ agot_filler_north.0091.b:0 "In diesem Sack muss doch etwas Sinnvolles sein!"
+ agot_filler_north.0091.b.tt:0 "Dieser arme Narr hat sicher keine Verwendung mehr dafür!"
+ agot_filler_north.0091.c:0 "Will... das bin ich..."
+ agot_filler_north.0091.c.tt:0 "Ihr fürchtet, dass Ihr in die Zukunft blickt, was Euch erwartet..."
+ agot_filler_north.0091.d:0 "Nicht das Zeichen, auf das ich gehofft hatte."
+ agot_filler_north.0091.d.tt:0 "Wird dies Euer Grab sein?"
 
 #####################################
-#          The Blizzard             #
+#          Der Schneesturm          #
 #        by Zombieschrodcat         #
 #           0092 - 0092             #
 #####################################
 
- agot_filler_north.0092.t:0 "The Blizzard"
+ agot_filler_north.0092.t:0 "Der Schneesturm"
  agot_filler_north.0092.desc:0 "The snow has fallen constantly since the hour of the wolf! As I see my steward enter my throne room, I know the discussion will detail the effects of the blizzard on my hold. We could offer shelter and food to those caught in this weather, but doing so will disrupt the work going on in the hold."
  agot_filler_north.0092.a:0 "Unfortunately, the hold must come first."
  agot_filler_north.0092.b:0 "I will not let my people suffer."
  agot_filler_north.0092.c:0 "I have no control over the weather."
 
 #####################################
-# Dangerous Game: The Moose         #
+# Gefährliches Spiel: Der Elch      #
 #        by Zombieschrodcat         #
 #           0093 - 0099             #
 #####################################
 
- agot_filler_north.0093.t:0 "A Most Dangerous Game: The Moose"
+ agot_filler_north.0093.t:0 "Ein höchst gefährliches Spiel: Der Elch"
  agot_filler_north.0093.desc:0 "A messenger arrived at my court today with a request for aid from a local village. The messenger states that a rather large bull moose has been terrorizing the village, and several of its men have been injured by the beast.\n\nA bull moose can be a serious problem, specially if the beast is in rut. There is a reason, after all, that the creature is the sigil of House Hornwood."
  agot_filler_north.0093.a:0 "We hunt!"
  agot_filler_north.0093.b:0 "I'm afraid there is nothing I can do."
 
- agot_filler_north.0094.t:0 "A Most Dangerous Game: The Moose"
- agot_filler_north.0094.desc:0 "Some of my hunting party are suprised when we arrive at the area plagued by the bull moose, a small lake. They are even more suprised when I inform them that moose are very good swimmers, and it isn't uncommon for them to feed on plants found on the bottom of lakes and rivers. While this one's choice of food is not the issue, the fact it had capsized several small fishing boats was. My party and I set about our task of hunting the moose."
+ agot_filler_north.0094.t:0 "Ein höchst gefährliches Spiel: Der Elch"
+ agot_filler_north.0094.desc:0 "Some of my hunting party are suprised when we arrive at the area plagued by the bull moose, a small lake. They are even more suprised when I inform them that moose are very good swimmers, and it isn't uncommon for them to feed on plants found on the bottom of lakes and rivers. While this one's choice of food is not the issue, the fact it had capsized several small fishing boats was. My party and I set about our task of hunting Der Elch."
  agot_filler_north.0094.a:0 "We'll circle the lake."
- agot_filler_north.0094.b:0 "I'll take a boat and drive the moose to you."
+ agot_filler_north.0094.b:0 "I'll take a boat and drive Der Elch to you."
  agot_filler_north.0094.c:0 "This is too dangerous..."
 
- agot_filler_north.0095.t:0 "A Most Dangerous Game: The Moose"
- agot_filler_north.0095.desc:0 "What a sight to see! The bull moose looks like a leviathan emerging from the deep as it tries to come ashore. My men hold their position, and the moose is unable to find a break.\n\nI take careful aim with my bow and let the arrow fly. It lands behind the moose's right foreleg, and I know immediately the shot had punctured the beast's lungs. I signal to my men to let it go. After a brief rest, we follow the trail of blood to our kill."
+ agot_filler_north.0095.t:0 "Ein höchst gefährliches Spiel: Der Elch"
+ agot_filler_north.0095.desc:0 "What a sight to see! The bull moose looks like a leviathan emerging from the deep as it tries to come ashore. My men hold their position, and Der Elch is unable to find a break.\n\nI take careful aim with my bow and let the arrow fly. It lands behind Der Elch's right foreleg, and I know immediately the shot had punctured the beast's lungs. I signal to my men to let it go. After a brief rest, we follow the trail of blood to our kill."
  agot_filler_north.0095.a:0 "A good hunt!"
 
- agot_filler_north.0096.t:0 "Dangerous Game: The Moose"
+ agot_filler_north.0096.t:0 "Ein höchst gefährliches Spiel: Der Elch"
  agot_filler_north.0096.desc:0 "What a sight to see! The bull moose looks like a leviathan emerging from the deep as it tries to come ashore. Though my men try to hold their position and keep the beast contained, it charges them — effortlessly swiping aside any in its way with its massive antlers.\n\nI try to make a stand against the creature myself, only to be tossed aside like a doll unwanted by a child."
  agot_filler_north.0096.a:0 "A poor hunt..."
 
- agot_filler_north.0097.t:0 "A Most Dangerous Game: The Moose"
+ agot_filler_north.0097.t:0 "Ein höchst gefährliches Spiel: Der Elch"
  agot_filler_north.0097.desc:0 "We arrive at the village, where they had been celebrating the harvest — until the bull moose disrupted everything. While some cleaning had been done, there was still much destruction by the beast. The villagers inform us that the beast oft comes at night and scavanges around the village for food, destroying gardens and food stores."
  agot_filler_north.0097.a:0 "Mimicking a rival's call may bring it out."
  agot_filler_north.0097.b:0 "Perhaps it has a taste for what was harvested."
  agot_filler_north.0097.c:0 "This is too dangerous..."
 
- agot_filler_north.0098.t:0 "A Most Dangerous Game: The Moose"
- agot_filler_north.0098.desc:0 "As the sun sets, we hear the bugle of the bull moose as it approached the village. My men and I take positions downwind from where it approaches. Arrows would be useless in the torchlight, so we equip ourselves with boar spears.\n\nWhen the torchlight catches the bull moose, a chill goes down my spine. The beast is massive, but the light plays tricks and casts about shadows, creating a sight that rivals the legends of the Long Night. We charge with our spears, stabbing at the moose. I feel my spear ripped from my hands as the beast turned to flee.\n\nWe wait until dawn's first light to track the moose. Following its trail of blood, we find the beast dead just outside the village. My spear is still in its side."
+ agot_filler_north.0098.t:0 "Ein höchst gefährliches Spiel: Der Elch"
+ agot_filler_north.0098.desc:0 "As the sun sets, we hear the bugle of the bull moose as it approached the village. My men and I take positions downwind from where it approaches. Arrows would be useless in the torchlight, so we equip ourselves with boar spears.\n\nWhen the torchlight catches the bull moose, a chill goes down my spine. The beast is massive, but the light plays tricks and casts about shadows, creating a sight that rivals the legends of the Long Night. We charge with our spears, stabbing at Der Elch. I feel my spear ripped from my hands as the beast turned to flee.\n\nWe wait until dawn's first light to track Der Elch. Following its trail of blood, we find the beast dead just outside the village. My spear is still in its side."
  agot_filler_north.0098.a:0 "A good hunt!"
 
- agot_filler_north.0099.t:0 "A Most Dangerous Game: The Moose"
- agot_filler_north.0099.desc:0 "As the sun sets, we hear the bugle of the bull moose as it approached the village. My men and I take positions downwind from where it approaches. Arrows would be useless in the torchlight, so we equip ourselves with boar spears.\n\nWhen the torchlight catches the bull moose, a chill goes down my spine. The beast is massive, but the light plays tricks and casts about shadows, creating a sight that rivals the legends of the Long Night. We charge with our spears, stabbing at the moose. I feel my spear ripped from my hands as the beast turned to flee.\n\nWe wait until dawn's first light to track the moose. But we find no signs of blood; the beast has escaped us."
+ agot_filler_north.0099.t:0 "Ein höchst gefährliches Spiel: Der Elch"
+ agot_filler_north.0099.desc:0 "As the sun sets, we hear the bugle of the bull moose as it approached the village. My men and I take positions downwind from where it approaches. Arrows would be useless in the torchlight, so we equip ourselves with boar spears.\n\nWhen the torchlight catches the bull moose, a chill goes down my spine. The beast is massive, but the light plays tricks and casts about shadows, creating a sight that rivals the legends of the Long Night. We charge with our spears, stabbing at Der Elch. I feel my spear ripped from my hands as the beast turned to flee.\n\nWe wait until dawn's first light to track Der Elch. But we find no signs of blood; the beast has escaped us."
  agot_filler_north.0099.a:0 "A poor hunt..."
 
 #####################################
-# Dangerous Game: The Aurochs       #
+# Gefährliches Spiel: Der Auerochse #
 #        by Zombieschrodcat         #
 #           0100 - 0106             #
 #####################################
 
- agot_filler_north.0100.t:0 "A Most Dangerous Game: The Aurochs"
- agot_filler_north.0100.desc:0 "A messenger arrived at my court today with a request for aid in dealing with a rather troublesome herd of aurochs. The massive beasts are a far cry from the domesticaticed cattle we raise for their meat. The aurochs are all muscle and aggression."
+ agot_filler_north.0100.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
+ agot_filler_north.0100.desc:0 "A messenger arrived at my court today with a request for aid in dealing with a rather troublesome herd of aurochs. The massive beasts are a far cry from the domesticaticed cattle we raise for their meat. Der Auerochse are all muscle and aggression."
  agot_filler_north.0100.a:0 "We hunt!"
  agot_filler_north.0100.b:0 "I'm afraid there is nothing I can do."
 
- agot_filler_north.0101.t:0 "A Most Dangerous Game: The Aurochs"
- agot_filler_north.0101.desc:0 "The aurochs have managed to find a valley popular with local herdsmen for grazing their sheep. The problem is the herd has not moved from the spot and is overgrazing the land. The locals have try to disperse the herd, but without horses they have only succeeded in injuring several men. "
+ agot_filler_north.0101.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
+ agot_filler_north.0101.desc:0 "Der Auerochse have managed to find a valley popular with local herdsmen for grazing their sheep. The problem is the herd has not moved from the spot and is overgrazing the land. The locals have try to disperse the herd, but without horses they have only succeeded in injuring several men. "
  agot_filler_north.0101.a:0 "Mount up, men!"
  agot_filler_north.0101.b:0 "Follow my lead!"
  agot_filler_north.0101.c:0 "We will succeed."
  agot_filler_north.0101.d:0 "I'm afraid there is nothing I can do."
 
- agot_filler_north.0102.t:0 "A Most Dangerous Game: The Aurochs"
- agot_filler_north.0102.desc:0 "The aurochs have been grazing near a route used by locals and traders. Normally this would not be a problem, as long as enough distance is kept from the herd; however, things recently changed.\n\nThe locals inform my party that a group of poachers tried to attack the herd, and failed. It left an impression on the large bull of the herd. Now, whenever the bull sees a person, it charges at them."
+ agot_filler_north.0102.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
+ agot_filler_north.0102.desc:0 "Der Auerochse have been grazing near a route used by locals and traders. Normally this would not be a problem, as long as enough distance is kept from the herd; however, things recently changed.\n\nThe locals inform my party that a group of poachers tried to attack the herd, and failed. It left an impression on the large bull of the herd. Now, whenever the bull sees a person, it charges at them."
  agot_filler_north.0102.a:0 "The bull must go."
  agot_filler_north.0102.b:0 "Perhaps poison arrows would help..."
  agot_filler_north.0102.c:0 "Lure it to the woods."
  agot_filler_north.0102.d:0 "I'm afraid there is nothing I can do."
 
- agot_filler_north.0103.t:0 "A Most Dangerous Game: The Aurochs"
+ agot_filler_north.0103.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
  agot_filler_north.0103.desc:0 "Our steeds race at the back of the herd, my men following my hand gestures to keep the herd together. We manage to clear the herd from the valley and drive them further along. With any luck, they will not be able to find the valley again, and the herdsmen can graze their sheep in peace."
  agot_filler_north.0103.a:0 "Good work, men!"
 
- agot_filler_north.0104.t:0 "A Most Dangerous Game: The Aurochs"
+ agot_filler_north.0104.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
  agot_filler_north.0104.desc:0 "Our steeds race at the back of the herd, my men following my hand gestures to keep the herd together. Unfortunatly, one of my hand guestures was misinturpted, and a break opened in our ranks. The herd took advantage and rushed through, crushing several of my men in the stampede and scaring away some of our horses.\n\nWe admit defeat and inform the herdsmen they will need to find new grazing lands."
  agot_filler_north.0104.a:0 "A poor attempt..."
 
- agot_filler_north.0105.t:0 "A Most Dangerous Game: The Aurochs"
+ agot_filler_north.0105.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
  agot_filler_north.0105.desc:0 "The bull shows his aggression the moment we catch his eye, charging at my men. With some difficulty, we manage to separate him from the herd. Our arrows fly at the beast as it struggles to fight.\n\nI have to admire the beast, it was only trying to protect the herd from what it saw as a threat. Still, the beast had to be killed — but as the bull went down, none of my men cheer. Instead, they curse the poachers. The bull aurochs had earned our respect."
  agot_filler_north.0105.a:0 "Such a beast!"
 
- agot_filler_north.0106.t:0 "A Most Dangerous Game: The Aurochs"
+ agot_filler_north.0106.t:0 "Ein höchst gefährliches Spiel: Der Auerochse"
  agot_filler_north.0106.desc:0 "The bull shows his aggression the moment we catch his eye, charging at my men. With some difficulty, we manage to separate him from the herd. Our arrows fly at the beast as it struggles to fight.\n\nI have to admire the beast, it was only trying to protect the herd from what it saw as a threat. Still, the beast had to be killed — but unforunately, the bull aurochs got the better of us. The beast managed to roll several of my mounted men, before escaping with the herd in tow."
  agot_filler_north.0106.a:0 "A poor attempt..."
 
 #####################################
-#     Dangerous Game: The Warg      #
+#     Gefährliches Spiel: Der Warg  #
 #        by Zombieschrodcat         #
 #           0107 - 0113             #
 #####################################
 
- agot_filler_north.0107.t:0 "A Most Dangerous Game: The Warg"
+ agot_filler_north.0107.t:0 "Ein höchst gefährliches Spiel: Der Warg"
  agot_filler_north.0107.desc:0 "My court can barely contain their laughter as the poor man tells his story. He turns red as they fail to mask their snickering, but he continues on. Apparently, the herds of his village have been preyed upon by a large, hairy beast that walks on its hind legs. The locals believe the beast is in fact a warg!"
  agot_filler_north.0107.a:0 "Something is taking the herd..."
  agot_filler_north.0107.b:0 "Ha! What a good jest!"
 
- agot_filler_north.0108.t:0 "A Most Dangerous Game: The Warg"
+ agot_filler_north.0108.t:0 "Ein höchst gefährliches Spiel: Der Warg"
  agot_filler_north.0108.desc:0 "We arrive where the herdsmen graze their livestock. My men and I search the area first, trying to find signs of wolves or other large predators. Our search turns up nothing of note.\n\nAs the sun starts to set, we decide our plan of action."
  agot_filler_north.0108.a:0 "We'll watch the herd tonight."
  agot_filler_north.0108.b:0 "We should watch the road from the village."
  agot_filler_north.0108.c:0 "This is a waste of time..."
 
- agot_filler_north.0109.t:0 "A Most Dangerous Game: The Warg"
+ agot_filler_north.0109.t:0 "Ein höchst gefährliches Spiel: Der Warg"
  agot_filler_north.0109.desc:0 "When the sun had almost set, we saw it. "By the gods," one of my men muttered as a man the size of a palfrey emerged from the woods and walked to a nearby sheep. As the beast picked up the sheep, we rushed in on our warhorses. The freakish man, disguised in furs, screamed and tried to run back into the woods, pleading for his life as he fled.\n\nWe caught up to him quickly. The man was a normal, albeit gangling, poacher who had used is ill gotten furs to create a disguise and steal the livestock. The villagers even reconized him as one who was spreading the tales of a warg in the first place."
  agot_filler_north.0109.a:0 "A very odd hunt!"
 
- agot_filler_north.0110.t:0 "A Most Dangerous Game: The Warg"
+ agot_filler_north.0110.t:0 "Ein höchst gefährliches Spiel: Der Warg"
  agot_filler_north.0110.desc:0 "When the sun had almost set, we saw it. "By the gods," one of my men muttered as a man the size of a palfrey emerged from the woods and walked to a nearby sheep. As the beast picked up the sheep, we rushed in on our warhorses. The freakish man, disguised in furs, screamed and tried to run back into the woods, pleading for his life as he fled.\n\nI found him the next morning in those woods, his throat torn out. As I left his body, I saw a wolf staring back at me, its eyes were almost human I thought, before it ran back into the woods."
  agot_filler_north.0110.a:0 "Something was odd about this hunt..."
 
- agot_filler_north.0111.t:0 "A Most Dangerous Game: The Warg"
+ agot_filler_north.0111.t:0 "Ein höchst gefährliches Spiel: Der Warg"
  agot_filler_north.0111.desc:0 "We arrive where the herdsmen graze their livestock. My men and I search the area first, trying to find signs of wolves or other large predators. Our search turns up several more footprints than we had expected to find — all belonging to men."
  agot_filler_north.0111.a:0 "We'll watch the herd tonight."
  agot_filler_north.0111.b:0 "Wildlings..."
  agot_filler_north.0111.c:0 "I don't have time for this..."
 
- agot_filler_north.0112.t:0 "A Most Dangerous Game: The Wildlings"
+ agot_filler_north.0112.t:0 "Ein höchst gefährliches Spiel: Die Wildlinge"
  agot_filler_north.0112.desc:0 "They had been watching us, it seems. As the sun starts to set, they emerge from the woods — a wildling raiding party. My men and I draw our blades and meet them in battle; our training and prowess would decide the outcome.\n\nThe herdsmen's grazing land ran red with blood."
  agot_filler_north.0112.a:0 "For the North!"
  agot_filler_north.0112.a.win.title:0 "You Won the Battle!"
  agot_filler_north.0112.a.lose.title:0 "The Battle was lost.."
 
- agot_filler_north.0113.t:0 "A Most Dangerous Game: The Wildlings"
+ agot_filler_north.0113.t:0 "Ein höchst gefährliches Spiel: Die Wildlinge"
  agot_filler_north.0113.desc:0 "I had my men set up positions; our martial tactics would determine this outcome.As the sun starts to set, they emerge from the woods — a wildling raiding party. My men and I draw our blades and meet them in battle.\n\nThe herdsmen's grazing land ran red with blood."
  agot_filler_north.0113.a:0 "For the North!"
  agot_filler_north.0113.a.win.title:0 "The Battle was Won!"
  agot_filler_north.0113.a.lose.title:0 "The Battle was lost..."
 
 #####################################
-#    The Wildlings in the Tower     #
+#    Die Wildlinge im Turm          #
 #        by Zombieschrodcat         #
 #           0114 - 0117             #
 #####################################
 
- agot_filler_north.0114.t:0 "The Wildlings in the Tower"
- agot_filler_north.0114.desc:0 "A wildling raiding party that my men and I have been tracking has taken up refuge in an abandoned watchtower. The tower itself is barely standing, the walls held together more so by ages of vines climbing the stone than the original mortar.\n\nStill, the wildlings managed to fortify the entrances and place a few archers on the upper levels. I was confident we could take it, but not without spilling some of our own blood."
- agot_filler_north.0114.a:0 "For the North!"
- agot_filler_north.0114.a.tt:0 "You attack the wildlings in the tower!"
+ agot_filler_north.0114.t:0 "Die Wildlinge im Turm"
+ agot_filler_north.0114.desc:0 "A wildling raiding party that my men and I have been tracking has taken up refuge in an abandoned watchtower. The tower itself is barely standing, the walls held together more so by ages of vines climbing the stone than the original mortar.\n\nStill, Die Wildlinge managed to fortify the entrances and place a few archers on the upper levels. I was confident we could take it, but not without spilling some of our own blood."
+ agot_filler_north.0114.a:0 "Für den Norden!"
+ agot_filler_north.0114.a.tt:0 "You attack Die Wildlinge in the tower!"
  agot_filler_north.0114.b:0 "Perhaps, we can reason."
- agot_filler_north.0114.b.tt:0 "You reach out and offer the wildlings a place in your service. Perhaps they will listen."
+ agot_filler_north.0114.b.tt:0 "You reach out and offer Die Wildlinge a place in your service. Perhaps they will listen."
  agot_filler_north.0114.c:0 "I need a cart, and dry tinder..."
  agot_filler_north.0114.c.tt:0 "The deads vines clings to the tower will soon be a pyre..."
  agot_filler_north.0114.d:0 "Attacking would be to risky..."
  agot_filler_north.0114.d.tt:0 "Some wildlings are not worth your life."
 
- agot_filler_north.0115.t:0 "The Wildlings in the Tower"
- agot_filler_north.0115.desc:0 "We wait until the sun creates a disadvantage for their archers, then we charge the tower. My men use their shields to block arrows, as the makeshift barricade is dismantled. The wildlings meet us on the other side, ready for a fight.\n\nThe tight corridors make for brutal fighting, and the tower's remaining stone floors soon become slick with blood."
+ agot_filler_north.0115.t:0 "Die Wildlinge im Turm"
+ agot_filler_north.0115.desc:0 "We wait until the sun creates a disadvantage for their archers, then we charge the tower. My men use their shields to block arrows, as the makeshift barricade is dismantled. Die Wildlinge meet us on the other side, ready for a fight.\n\nThe tight corridors make for brutal fighting, and the tower's remaining stone floors soon become slick with blood."
  agot_filler_north.0115.a:0 "For the North!"
  agot_filler_north.0115.a.tt:0 "You draw steel and fight!"
  agot_filler_north.0115.a.win.title:0 "The Battle was Won!"
@@ -707,71 +707,71 @@
  agot_filler_north.0115.b:0 "Retreat! Retreat!"
  agot_filler_north.0115.b.tt:0 "You are outmatched, so you fall back."
 
- agot_filler_north.0116.t:0 "The Wildlings in the Tower"
- agot_filler_north.0116.desc:0 "My men find a old cart and load it with tinder as the sun begins to set. The wildlings spot us as my men roll the cart toward the tower, trying to take shots with their archers. But the cart rolled to the base of the watchtower — and on my signal, my men loose their flaming arrows at the tinder in the cart.\n\nAs the fire begins to spread, the wildlings try to dismantle their own fortifications. The fire is faster, and as it started engulf the tower some of the wildlings leap from the higher floors to their deaths, rather than let the flames consume them. The hour of the wolf is upon us, and the tower is a blazing inferno."
+ agot_filler_north.0116.t:0 "Die Wildlinge im Turm"
+ agot_filler_north.0116.desc:0 "My men find a old cart and load it with tinder as the sun begins to set. Die Wildlinge spot us as my men roll the cart toward the tower, trying to take shots with their archers. But the cart rolled to the base of the watchtower — and on my signal, my men loose their flaming arrows at the tinder in the cart.\n\nAs the fire begins to spread, Die Wildlinge try to dismantle their own fortifications. The fire is faster, and as it started engulf the tower some of Die Wildlinge leap from the higher floors to their deaths, rather than let the flames consume them. The hour of the wolf is upon us, and the tower is a blazing inferno."
  agot_filler_north.0116.a:0 "A sight seared into my mind forever."
  agot_filler_north.0116.a.tt:0 "Word of your "pyre" will surely be spread by others, perhaps it will serve as a warning..."
 
- agot_filler_north.0117.t:0 "The Wildlings in the Tower"
+ agot_filler_north.0117.t:0 "Die Wildlinge im Turm"
  agot_filler_north.0117.desc:0 "Against the wishes of my men, I approach the watchtower unarmed. Close enough for them to hear me, I shout, offering them a choice:\n\nI have room at my court and could provide them shelter and food. In exchange, they would serve me and no longer raid these lands.\n\nAs I await their response, the tower erupts in shouts and screams. The awful sounds finally die down, and two wildlings tear down the barricade to cautiously approach me. Both are covered in blood, telling me that they killed the others who did not wish to take my offer.\n\nBoth wildlings bent the knee to me."
  agot_filler_north.0117.a:0 "I had hoped to avoid bloodshed."
  agot_filler_north.0117.a.tt:0 "Though men had died, at least it was not by your own hands..."
 
 #####################################
-#             Snowy Day             #
+#        Verschneiter Tag          #
 #        by Zombieschrodcat         #
 #           0118 - 0127             #
 #####################################
 
- agot_filler_north.0118.t:0 "Snowy Day"
+ agot_filler_north.0118.t:0 "Verschneiter Tag"
  agot_filler_north.0118.desc:0 "The day has been one of constant snowfall, and as such my court is rather quiet. As boredom starts to set in, I decide I need a task to help whittle away this snowy day!"
  agot_filler_north.0118.a:0 "Perhaps I'll read a book."
  agot_filler_north.0118.b:0 "I'll visit the treasury."
  agot_filler_north.0118.c:0 "Maybe playing a trick will entertain me."
  agot_filler_north.0118.d:0 "I'll plan war strategies."
 
- agot_filler_north.0119.t:0 "Snowy Day: The Library"
+ agot_filler_north.0119.t:0 "Verschneiter Tag: The Library"
  agot_filler_north.0119.desc:0 "As I walk into the library, I run a finger across the spines of the books on the shelves. Surely I could find a tome here to make use of this snowy day."
  agot_filler_north.0119.a:0 "How about this one?"
  agot_filler_north.0119.b:0 "This seems awfully difficult..."
 
- agot_filler_north.0120.t:0 "Snowy Day: The Treasury"
+ agot_filler_north.0120.t:0 "Verschneiter Tag: The Treasury"
  agot_filler_north.0120.desc:0 "The snowy day is finally the excuse I need to go over the treasury books. Perhaps there is a error in our favor and I have more wealth than originally thought. My steward and I set about the task of going through the records."
  agot_filler_north.0120.a:0 "Let's count coins!"
 
- agot_filler_north.0121.t:0 "Snowy Day: The Trick"
+ agot_filler_north.0121.t:0 "Verschneiter Tag: The Trick"
  agot_filler_north.0121.desc:0 "Today would have been a dull day, if the thought had not crossed my mind. Fighting off laughter, I retrieve a pastry from the kitchen, as well as a dragon pepper. After combining the two, I place it back in the kitchen. When I tell my spymaster of my trick, we both have a good laugh!"
  agot_filler_north.0121.a:0 "I hope I see who takes a bite of it."
  agot_filler_north.0121.b:0 "Hold on, which pastry did I use again?"
 
- agot_filler_north.0122.t:0 "Snowy Day: The Trick"
+ agot_filler_north.0122.t:0 "Verschneiter Tag: The Trick"
  agot_filler_north.0122.desc:0 "When lunch arrives, I take a bite of my meal — and my mouth turns to fire. After downing my goblet of wine, I examine the pastry I had eaten. I notice the dragon pepper...\n\nHad this been a coincidence that my trick fired back on me? Or was it intentional? While this was a harmless joke, it does raise serious questions about my safety!"
  agot_filler_north.0122.a:0 "What if it had been poison?"
 
- agot_filler_north.0123.t:0 "Snowy Day: War Games"
+ agot_filler_north.0123.t:0 "Verschneiter Tag: War Games"
  agot_filler_north.0123.desc:0 "My marshal and I lay out maps on the table and place pawns to represent the troops. We spend the hours going over strategies and differing battle plans. Eventually, it turns into a kind of war game, with the marshal as my opponent."
- agot_filler_north.0123.a:0 "Let's start a war!"
+ agot_filler_north.0123.a:0 "Lasst uns einen Krieg beginnen!"
 
- agot_filler_north.0124.t:0 "Snowy Day: The Library"
+ agot_filler_north.0124.t:0 "Verschneiter Tag: The Library"
  agot_filler_north.0124.desc:0 "My choice in tomes was unfortunate. I keep rereading the lines over and over, but their meaning is lost to me. Whatever this maester was going on about, he surely wished it to remain a secret with such a dull tome!"
  agot_filler_north.0124.a:0 "Gods damn this book!"
 
- agot_filler_north.0125.t:0 "Snowy Day: The Treasury"
+ agot_filler_north.0125.t:0 "Verschneiter Tag: The Treasury"
  agot_filler_north.0125.desc:0 "Surely not! I keep going over the books and recounting the amount, but each time it comes back the same. We are missing more gold than I had thought!"
  agot_filler_north.0125.a:0 "Luckly I caught it..."
 
- agot_filler_north.0126.t:0 "Snowy Day: War Games"
+ agot_filler_north.0126.t:0 "Verschneiter Tag: War Games"
  agot_filler_north.0126.desc:0 "The battle forms in my mind as I stare at the map. New strategies unfold, and as my marshal moves his pieces, so do I. Eventually, I have my marshal surrounded, and with some reluctance my marshal admits defeat!"
- agot_filler_north.0126.a:0 "Well played!"
+ agot_filler_north.0126.a:0 "Gut gespielt!"
 
- agot_filler_north.0127.t:0 "Snowy Day: War Games"
- agot_filler_north.0127.desc:0 "The battle forms in my mind as I stare at the map. New strategies unfold, and as my marshal moves his pieces, so do I. Eventually, my marshal has me surrounded, and with some reluctance I admit defeat..."
- agot_filler_north.0127.a:0 "Well played..."
+ agot_filler_north.0127.t:0 "Verschneiter Tag: War Games"
+ agot_filler_north.0127.desc:0 "Die Schlacht formt sich in meinem Verstand, während ich auf die Karte starre. Neue Strategien entwickeln sich, und wenn mein Kommandant seine Figuren bewegt, tue ich das auch. Schließlich hat mich mein Kommandant umzingelt, und ich gebe mich nur widerwillig geschlagen..."
+ agot_filler_north.0127.a:0 "Gut gespielt..."
 
-#####################################
-#   FUR TRADERS OVER HUNTING WOODS  #
-#####################################
+##############################################
+#   PELZHÄNDLER AUF DER JAGD IN DEN WÄLDERN  #
+##############################################
 
-################################################
-#   FIRST MEN CAVE RUNES/PAINTINGS DISCOVERED  #
-#################################################
+######################################################
+#   HÖHLENRUNEN/BILDER DER ERSTEN MENSCHEN ENTDECKT  #
+######################################################
