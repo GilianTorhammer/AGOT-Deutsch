@@ -10,16 +10,16 @@
 ###################################
 
  agot_filler_north.0001.t:0 "Begegnung mit einem Wildling"
- agot_filler_north.0001.desc:0 "Bei einem Ausritt durch den Wald entdecke ich einen zerzausten Mann in der Nähe und bemerkte schon bald, dass es sich um einen Wildling handelte!"
+ agot_filler_north.0001.desc:0 "Bei einem Ausritt durch den Wald fiel mir ein zerzauster Mann auf. Als ich mich näherte bemerkte ich, dass es sich um einen Wildling handelte!"
  agot_filler_north.0001.a:0 "Stirb, du Wildling!"
  agot_filler_north.0001.a.tt:0 "Bei Wildlingen, heißt es töten oder getötet werden."
  agot_filler_north.0001.b:0 "Ich könnte einen weiteren Hausdiener gebrauchen..."
- agot_filler_north.0001.b.tt:0 "Ihr bietet ihm die Möglichkeit an, in euren Stallungen zu arbeiten."
- agot_filler_north.0001.c:0 "Ich verstecke mich im Gebüsch, man wird mich nicht entdecken!"
+ agot_filler_north.0001.b.tt:0 "Ihr bietet ihm die Möglichkeit, in den Stallungen zu arbeiten."
+ agot_filler_north.0001.c:0 "Ich verstecke mich im Gebüsch, man wird mich hoffentlich nicht entdecken!"
  agot_filler_north.0001.c.tt:0 "Manche mögen Euch einen Feigling nennen, aber zumindest seid Ihr ein Feigling, der noch atmet!"
 
  agot_filler_north.0002.t:0 "Begegnung mit einem Wildling"
- agot_filler_north.0002.desc:0 "Nicht alle Wildlinge sind böse, und ich brauche an meinem Hof mehr treue Diener. Beugt das Knie und erhebt Euch als Mann des Nordens."
+ agot_filler_north.0002.desc:0 "Nicht alle Wildlinge sind bösartig, und ich brauche an meinem Hof mehr treue Diener. Beugt das Knie und erhebt Euch als Mann des Nordens."
  agot_filler_north.0002.a:0 "Von diesem Tag an bis zum Ende eurer Tage."
 
 ######################################
@@ -31,14 +31,14 @@
  agot_filler_north.0003.a:0 "Bringt den Eidbrecher herein."
 
  agot_filler_north.0004.t:0 "Ein schwarzer Bruder desertiert"
- agot_filler_north.0004.desc:0 "Der Deserteur, ein Mann namens [agot_filler_black_brother_deserter.GetFirstNameNoTooltip], wird zu mir gebracht. Er wimmert über die Dinge, die er nördlich der Mauer gesehen hat. Unaussprechliche Schrecken in der eisigen Einöde..."
+ agot_filler_north.0004.desc:0 "Der Deserteur, ein Mann namens [agot_filler_black_brother_deserter.GetFirstNameNoTooltip], wird zu mir geführt. Er wimmert Dinge vor sich her, die er nördlich der Mauer gesehen hat. Unaussprechliche Schrecken in der eisigen Einöde..."
  agot_filler_north.0004.a:0 "Er soll die Gerechtigkeit des Königs erfahren."
- agot_filler_north.0004.b:0 "Er hat offensichtlich viel gesehen."
- agot_filler_north.0004.b.tt:0 "Vielleicht sollte er auf seinen Posten zurückkehren..."
+ agot_filler_north.0004.b:0 "Er hat offensichtlich schreckliches gesehen."
+ agot_filler_north.0004.b.tt:0 "Er sollte besser auf seinen Wachposten zurückkehren..."
 
  agot_filler_north.0005.t:0 "Ein schwarzer Bruder wird gerichtet"
  agot_filler_north.0005.desc:0 "Es heißt im Norden: Der Mann, der ein Urteil fällt, soll auch das Schwert führen. Ich schaue zum letzten Mal in die Augen von [agot_filler_black_brother_deserter.GetFirstNameNoTooltip]."
- agot_filler_north.0005.a:0 "Zum Teufel mit dem, was sie sagen. Wozu habe ich sonst einen Henker in meinen Diensten?"
+ agot_filler_north.0005.a:0 "Zum Teufel mit dem, was alle sagen. Wozu habe ich sonst einen Henker in meinen Diensten?"
  agot_filler_north.0005.b:0 "Ich werde das Schwert führen."
  agot_filler_north.0005.b.tt:0 "Richtet ihn hin."
 
@@ -51,22 +51,22 @@
 ###############################################
 
  agot_filler_north.0020.t:0 "Schattenwolfumhänge zu verkaufen!"
- agot_filler_north.0020.desc:0 ""Schattenwolfumhänge! Schattenwolfumhänge zu verkaufen," brüllt der Händler. Ich drehe mich um und sehe, dass der Händler drei große, pelzige Umhänge hinter sich aufgespannt hat. Er fängt meinen Blick auf und lädt mich ein, die Umhänge zu inspizieren..."
+ agot_filler_north.0020.desc:0 ""Schattenwolfumhänge! Schattenwolfumhänge zu verkaufen," brüllt der Händler. Ich drehe mich um und sehe, dass der Händler drei große, pelzige Umhänge hinter sich aufgespannt hat. Er bemerkt meine interessierten Blicke und lädt mich ein, die Umhänge zu inspizieren..."
  agot_filler_north.0020.a:0 "Inspiziert die Umhänge."
  agot_filler_north.0020.b:0 "Schattenwölfe? Die sind ausgestorben! Erklärt euch, Händler."
  agot_filler_north.0020.c:0 "Ich benötige keine Umhänge."
  agot_filler_north.0020.a_tt:0 "Ihr betrachtet die Umhänge genauer."
 
-#echtes Fell
+#Echtes Fell
  agot_filler_north.0021.t:0 "Bei näherer Begutachtung"
- agot_filler_north.0021.desc:0 "Ich ziehe einen großen weißen Umhang herunter. Als ich das Fell in meinen Händen spüre, erkenne ich, dass die Handwerkskunst bemerkenswert ist; sogar die Nähte sind meisterhaft! Ich schließe die Augen und rieche an dem Umhang; er riecht nach Schnee und Kiefernholz. Ich öffne die Augen, ziehe meinen Umhang aus und lege ihn in die Arme des Händlers, während ich den Schattenwolfumhang anprobiere. Der Umhang ist erfrischend warm. Ich merke einen deutlichen Unterschied zu meinem Wolfsumhang.\n\nDer Händler räuspert sich und murmelt etwas von "Zeit zu bezahlen oder den Umhang zurückzugeben"..."
- agot_filler_north.0021.a:0 "Das muss ich unbedingt kaufen!"
- agot_filler_north.0021.b:0 "Es scheint echt zu sein, aber ich brauche es nicht..."
+ agot_filler_north.0021.desc:0 "Ich ziehe einen großen weißen Umhang herunter. Als ich das Fell in meinen Händen spüre, erkenne ich, dass die Handwerkskunst bemerkenswert ist; sogar die Nähte sind meisterhaft! Ich schließe die Augen und rieche an dem Umhang; er duftet nach Schnee und Kiefernholz. Ich öffne die Augen, ziehe meinen Umhang aus und lege ihn in die Arme des Händlers, während ich den Schattenwolfumhang anprobiere. Der Umhang ist überraschend warm. Ich merke einen deutlichen Unterschied zu meinem Wolfsumhang.\n\nDer Händler räuspert sich und murmelt etwas von "Zeit zu bezahlen oder den Umhang zurückzugeben"..."
+ agot_filler_north.0021.a:0 "Den muss ich unbedingt kaufen!"
+ agot_filler_north.0021.b:0 "Er scheint echt zu sein, aber ich benötige ihn nicht..."
  agot_filler_north.0021.c:0 "Ich bin ein Edelmann, ich muss nicht dafür bezahlen!"
 
 #Fragwürdiges Fell
  agot_filler_north.0022.t:0 "Bei näherer Begutachtung"
- agot_filler_north.0022.desc:0 "Ich ziehe einen großen weißen Umhang herunter. Als ich das Fell in meinen Händen spüre, bin ich nicht überrascht, dass die Verarbeitung nichts Außergewöhnliches ist. Ich schließe meine Augen und rieche an dem Umhang; er riecht nach altem Fleisch und nassem Hund. Igitt. Der Händler bittet mich, ihn anzuprobieren. Ich ziehe ihn an und spüre den kalten Luftzug.\n\nDer Händler räuspert sich und murmelt etwas von "Zeit, zu bezahlen oder den Umhang zurückzugeben"..."
+ agot_filler_north.0022.desc:0 "Ich ziehe einen großen weißen Umhang herunter. Als ich das Fell in meinen Händen spüre, bin ich nicht überrascht, dass die Verarbeitung nichts Außergewöhnliches ist. Ich schließe meine Augen und rieche an dem Umhang; er duftet nach altem Fleisch und nassem Hund. Igitt. Der Händler bittet mich, ihn anzuprobieren. Ich ziehe ihn an und spüre den kalten Luftzug.\n\nDer Händler räuspert sich und murmelt etwas von "Zeit, zu bezahlen oder den Umhang zurückzugeben"..."
  agot_filler_north.0022.a:0 "Ich sollte euch dafür einsperren lassen..."
 
  agot_filler_north.0023.t:0 "'Schattenwolf'-Umhänge, hä?"
@@ -79,9 +79,9 @@
 #####################################
 
  agot_filler_north.0030.t:0 "Sommerschnee!"
- agot_filler_north.0030.desc:0 "BRRRR! Ich habe draußen gespielt, als es plötzlich wie aus dem Nichts zu schneien begann! Die Maester haben mir gesagt, dass dieser Sommerschnee gefährlich werden kann, wenn ich mich zu lange draußen aufhalte, aber ich habe so viel Spaß... "
+ agot_filler_north.0030.desc:0 "BRRRR! Ich habe draußen gespielt, als es plötzlich wie aus dem Nichts zu schneien begann! Die Maester haben mir gesagt, dass dieser Sommerschnee gefährlich werden kann, wenn ich mich zu lange draußen aufhalte, aber ich habe doch gerade so viel Spaß... "
  agot_filler_north.0030.a:0 "Ich sollte auf die Maester hören. Der Letzte, der zum Bergfried zurückkehrt, ist ein Wildling!"
- agot_filler_north.0030.b:0 "Ich bin ein NORDMANN! Das ist Sommerschnee. Er bedeutet nichts."
+ agot_filler_north.0030.b:0 "Ich bin ein NORDMANN! Das ist Sommerschnee. Er ist unbedeutend."
  agot_filler_north.0030.c:0 "Aber der Bergfried ist #italic so#! weit..."
 
 ##############################################
@@ -89,17 +89,17 @@
 ##############################################
 
  agot_filler_north.0031.t:0 "Der Winter ist früher eingekehrt"
- agot_filler_north.0031.desc:0 ""Mein Herr, mein Herr", sagt der frustrierte Bauer vor mir, "diese Sommerschneestürme haben meine Ernte dezimiert! Ich habe keine Hoffnung, dass ich den vollen Ertrag wiederherstellen kann, vor allem, weil die Ernte bald ansteht. Ich weiß nicht, was ich tun soll, wenn ich meine Familie in dieser Erntezeit nicht ernähren kann, vor allem, weil der Winter naht... Es muss doch etwas geben, was ihr tun könnt!"\n\nDer Bauer ist mutig, von mir Hilfe für seine Farm zu verlangen... aber diese Sommerschneestürme haben den Farmen im ganzen Land Schaden zugefügt... "
- agot_filler_north.0031.a:0 "Ich werde nur für die zerstörte Ernte eine Entschädigung zahlen."
- agot_filler_north.0031.b:0 "Das war die Bestrafung durch die alten Götter für eure Sünden."
- agot_filler_north.0031.c:0 "Ihr seid ein NORDMANN! Ihr solltet die Gefahr von Schneestürmen im Sommer kennen."
+ agot_filler_north.0031.desc:0 ""Mein Herr, mein Herr", sagt der frustrierte Bauer vor mir, "diese Sommerschneestürme haben meine Ernte dezimiert! Ich habe keine Hoffnung, dass ich den vollen Saatertrag wiederherstellen kann, vor allem, weil die Ernte bald ansteht. Ich weiß nicht, was ich tun soll, wenn ich meine Familie in dieser Erntezeit nicht ernähren kann, vor allem, weil der Winter naht... Es muss doch etwas geben, was ihr für mich tun könnt!"\n\nDer Bauer ist mutig, von mir Hilfe für seinen Hof zu verlangen... aber diese Sommerschneestürme haben den Höfen im ganzen Land Schaden zugefügt... "
+ agot_filler_north.0031.a:0 "Ich werde euch nur für die zerstörte Saat entschädigen."
+ agot_filler_north.0031.b:0 "Die Alten Götter bestraften euch für eure Sünden."
+ agot_filler_north.0031.c:0 "Ihr seid ein NORDMANN! Ihr solltet die drohende Gefahr von Schneestürmen im Sommer kennen."
 
 #######################################################
 #   RUNEN DER ERSTEN MENSCHEN ENTDECKT - BAUMEISTER   #
 #######################################################
 
  agot_filler_north.0032.t:0 "Runen der ersten Menschen"
- agot_filler_north.0032.desc:0 "Bei einem Bauvorhaben in dieser Gegend wurde eine bemerkenswerte Entdeckung gemacht. Anscheinend hat ein einheimischer Baumeister ein Steinhaufen ausgegraben, auf denen die Runen der Ersten Menschen eingraviert sind. Der Baumeister bietet mir an, die Steine zu einem, wie er sagt, sehr fairen Preis zu verkaufen.\n\nDie Maester haben uns gelehrt, dass die Ersten Menschen ihre Runen in Steine und andere Gegenstände eingraviert haben, als sie zum ersten Mal nach Westeros kamen. Manche sagen sogar, dass diese Schnitzereien magische Eigenschaften haben. Diese Steine könnten sehr wertvoll sein und würden mein Ansehen im Norden zweifellos erhöhen..."
+ agot_filler_north.0032.desc:0 "Bei einem Bauvorhaben in der Gegend wurde eine bemerkenswerte Entdeckung gemacht. Anscheinend hat ein einheimischer Baumeister ein Steinhaufen ausgegraben, auf denen die Runen der Ersten Menschen eingraviert sind. Der Baumeister bietet mir an, die Steine zu einem, wie er sagt, sehr fairen Preis zu verkaufen.\n\nDie Maester haben uns gelehrt, dass die Ersten Menschen ihre Runen in Steine und andere Gegenstände eingraviert haben, als sie zum ersten Mal nach Westeros kamen. Manche behaupten sogar, dass diese Schnitzereien magische Eigenschaften besitzen. Diese Steine könnten sehr wertvoll sein und würden mein Ansehen im Norden zweifellos erhöhen..."
  agot_filler_north.0032.a:0 "Schickt einen Boten, um die Steine zu kaufen."
  agot_filler_north.0032.b:0 "Ich brauche so etwas nicht."
  agot_filler_north.0032.c:0 "Das Vermächtnis der Ersten Männer ist #italic mein#!Vermächtnis. Ihr nehmt die Steine."
@@ -120,9 +120,9 @@
 ############################################
 
  agot_filler_north.0034.t:0 "Wolfsangriffe bedrohen die Schäfer"
- agot_filler_north.0034.desc:0 "Es ist eine weitere lange Nacht in meinem Arbeitszimmer. Die Sonne ist untergegangen, und der Mond ist hoch in den Himmel gestiegen. Bei dem hellen Mondschein brauche ich meine Kerze kaum. Während ich Stunden damit verbringe, Berichte durchzusehen, Geschäftsbücher zu prüfen und Dokumente zu stempeln, stoße ich auf einen aktuellen Bericht, der sowohl von meinem Verwalter als auch von meinem Marschall unterzeichnet ist.\n\nDer Bericht stellt fest, dass Schäfer in meiner gesamten Domäne eine wachsende Zahl sterbender oder verletzter Wolltiere gefunden haben - Tiere, die Wolle produzieren, wie mein Verwalter in dem Bericht vermerkt. Ziegen, Schafe und sogar Wollhunde wurden in der Nacht von großen, gefräßigen Wolfsrudeln angegriffen, wie viele berichten. Sollten sich diese Angriffe in ihrer derzeitigen Anzahl fortsetzen, könnte der Wollhandel ernsthafte Verluste erleiden.\n\nEine Lösung für dieses Problem zu finden, erscheint mir unausweichlich; es wäre schön, meinem Rat morgen früh eine Lösung vorlegen zu können."
- agot_filler_north.0034.a:0 "Setzt ein Kopfgeld auf Wölfe aus und bezahlt jeden Jäger in Gold für jeden erlegten Wolf."
- agot_filler_north.0034.b:0 "Erteilt den Schäfern eine Verwarnung, weil sie sich nicht auf ihre Wolle Acht geben."
+ agot_filler_north.0034.desc:0 "Es ist eine weitere lange Nacht in meinem Arbeitszimmer. Die Sonne ist untergegangen, und der Mond ist hoch in den Himmel gestiegen. Bei dem hellen Mondschein brauche ich meine Kerze kaum. Während ich Stunden damit verbringe, Berichte durchzusehen, Geschäftsbücher zu prüfen und Dokumente zu stempeln, stoße ich auf einen aktuellen Bericht, der sowohl von meinem Verwalter als auch von meinem Marschall unterzeichnet ist.\n\nDer Bericht stellt fest, dass Schäfer in meiner gesamten Domäne eine wachsende Zahl sterbender oder verletzter Wolltiere gefunden haben - Tiere, die Wolle produzieren, wie mein Verwalter in dem Bericht vermerkt. Ziegen, Schafe und sogar Wollhunde wurden in der Nacht von großen, gefräßigen Wolfsrudeln angegriffen, wie viele Schäfer berichten. Sollten sich diese Angriffe in ihrer derzeitigen Anzahl fortsetzen, könnte der Wollhandel ernsthafte Verluste erleiden.\n\nEine Lösung für dieses Problem zu finden, erscheint mir unausweichlich; es wäre schön, meinem Rat morgen früh eine Lösung vorlegen zu können."
+ agot_filler_north.0034.a:0 "Setzt ein Kopfgeld auf Wölfe aus und bezahlt den Jägern Gold für jeden erlegten Wolf."
+ agot_filler_north.0034.b:0 "Erteilt den Schäfern eine Verwarnung, weil sie nicht auf ihre Wolle Acht geben."
  agot_filler_north.0034.c:0 "Entschädigt die am stärksten betroffenen Schäfer"
 
 #############################
@@ -182,21 +182,21 @@
 ####################################################
 
  agot_filler_north.0040.t:0 "Sagen des Nordens"
- agot_filler_north.0040.desc:0 "Das Lagerfeuer brennt lichterloh, als ich neben den anderen Platz nehme. Eine Woche in den Wäldern zu verbringen, völlig losgelöst vom Hof und vom Herrschen - und von den kleinen Problemen des Lebens - ist etwas, wovon die meisten in meiner Position nur träumen können. Aber im Norden ist das unsere Tradition. Unser Erbe.\n\nDer Mond steht hoch über unseren Köpfen, und unser Gastgeber, ein Mann namens Beron, blickt mit finsterer Miene vom Feuer auf.\n\n"Meine Freunde", sagt er, während das Feuer im Schwarz seiner Augen tanzt, "man sagt, es gibt eine Sage über diese Wälder. Eine beängstigende und alte Sage. Kennt ihr sie alle?" Die Männer murmeln ein kollektives Nein und fordern ihn auf, sie zu erzählen.\n\n"Vor langer Zeit mieden Jäger und Sammler diese Wälder, als ob sie von Drachen bevölkert wären. Der Herr dieser Wälder war irritiert, denn hier gab es gutes Wild zu jagen und leckere Beeren zu ernten. Also wagte er sich in den Wald, um herauszufinden, warum er für seine Leute wie Gift war."\n\n"In diesen Wäldern suchte er viele Tage und Nächte nach irgendwelchen Anzeichen. Aber er fand nichts, wohin er auch blickte. Bis er eines Nachts, als der Mond hoch am Himmel stand, einen eisigen und bedrohlichen Wind spürte. Plötzlich sah er hinter sich keinen Geringeren als einen #italic Anderen#, der gekommen war, um ihn zu töten-"\n\nAus dem Nichts hören du und deine Begleiter ein Rascheln im Gebüsch... Beron schnappt nach Luft, als jemand aus dem Dickicht springt und euch wild schreiend angreift! Du kannst hören, wie Beron wild über das Geschrei des Mannes lacht!"
+ agot_filler_north.0040.desc:0 "Das Lagerfeuer brennt lichterloh, als ich neben den anderen Platz nehme. Eine Woche in den Wäldern zu verbringen, völlig losgelöst vom Hof und vom Herrschen - und von den kleinen Problemen des Lebens - ist etwas, wovon die meisten in meiner Position nur träumen können. Aber im Norden ist das unsere Tradition. Unser Erbe.\n\nDer Mond steht hoch über unseren Köpfen, und unser Gastgeber, ein Mann namens Beron, blickt mit finsterer Miene vom Feuer auf.\n\n"Meine Freunde", sagt er, während das Feuer im Schwarz seiner Augen tanzt, "man sagt, es gibt eine Sage über diese Wälder. Eine beängstigende und alte Sage. Kennt ihr sie alle?" Die Männer murmeln ein kollektives Nein und fordern ihn auf, sie zu erzählen.\n\n"Vor langer Zeit mieden Jäger und Sammler diese Wälder, als ob sie von Drachen bevölkert wären. Der Herr dieser Wälder war irritiert, denn hier gab es gutes Wild zu jagen und leckere Beeren zu ernten. Also wagte er sich in den Wald, um herauszufinden, warum er für seine Leute wie Gift war."\n\n"In diesen Wäldern suchte er viele Tage und Nächte nach irgendwelchen Anzeichen. Aber er fand nichts, wohin er auch blickte. Bis er eines Nachts, als der Mond hoch am Himmel stand, einen eisigen und bedrohlichen Wind spürte. Plötzlich sah er hinter sich keinen Geringeren als einen #italic Anderen#, der gekommen war, um ihn zu töten-"\n\nAus dem Nichts hört Ihr und Eure Begleiter ein Rascheln im Gebüsch... Beron schnappt nach Luft, als jemand aus dem Dickicht springt und euch wild schreiend angreift! Du kannst hören, wie Beron wild über das Geschrei des Mannes lacht!"
  agot_filler_north.0040.a:0 "AHHHHHH!"
  agot_filler_north.0040.b:0 "FLIEHT! AUF DIREKTEM WEG NACH HAUSE!"
- agot_filler_north.0040.c:0 "AHAH, toller Streich, Beron!"
+ agot_filler_north.0040.c:0 "HAHA, toller Streich, Beron!"
 
 ############################################
-#   ERLEBNIS EISFISCHEN - SOLOFISCHEN  #
+#   ERLEBNIS EISFISCHEN - SOLOFISCHEN      #
 ############################################
 
  agot_filler_north.0041.t:0 "Eisfischen"
  agot_filler_north.0041.desc:0 "Ich nehme mir den Tag frei, um Eisfischen zu gehen! Einige Teiche in der Nähe sind zugefroren, und ich habe beschlossen, dass es eine nette Entspannung sein wird, allein in der Wildnis zu sein.\n\nAls ich meine Angelschnur ins Wasser werfe, höre ich ein Knarren und Knacken... es dämmert mir sofort...\n\nIch springe von meinem Platz auf und versuche, zurück auf festen Boden zu laufen, aber ich spüre das eiskalte Wasser an meinen Füßen und plötzlich - #bold PLATSCH#! sinke ich auf den Grund!"
  agot_filler_north.0041.a:0 "Hilfe, so helft mir doch!"
- agot_filler_north.0041.b:0 "Schwimmen...schwimmen! So schnell du kannst!"
+ agot_filler_north.0041.b:0 "Schwimm...schwimm! So schnell du kannst!"
  agot_filler_north.0041.drowning.toast.title:0 "Keiner kann Euch schreien hören."
- agot_filler_north.0041.drowning.toast.alternate.title:0 "Ein geheimnisvoller Fremder rettet euch."
+ agot_filler_north.0041.drowning.toast.alternate.title:0 "Ein geheimnisvoller Fremder rettet Euch."
 
 ############################
 #   WOLFSANGRIFF - NORDEN  #
@@ -208,7 +208,7 @@
 #############################################
 
  agot_filler_north.0043.t:0 "Der Bauer und der Wiedergänger"
- agot_filler_north.0043.desc:0 "Ein Mann betritt euren Hof und führt eine ungewöhnlich blasse Frau an den Händen angebunden, vor sich her. Er behauptet, Jäger hätten die Frau, die er als Wiedergänger bezeichnet, im Wald gefunden, wo sie mit dem Blut eines toten Jägers bedeckt war. Die Frau versucht sich zu rechtfertigen und behauptet, sie habe Kräuter gepflückt, als sie den verwundeten Jäger fand, und habe versucht, ihn zu retten, nachdem er von einem Wolf angegriffen worden war.\n\nDer Mann warnt Euch, ihre Beteuerungen zu ignorieren - sie sei eine Wiedergänger; erinnert Euch an die Sagen vom Nachtkönig und die Gefahr, die seinesgleichen darstellen."
+ agot_filler_north.0043.desc:0 "Ein Mann betritt Euren Hof und führt eine ungewöhnlich blasse Frau an den Händen angebunden, vor sich her. Er behauptet, Jäger hätten die Frau, die er als Wiedergänger bezeichnet, im Wald gefunden, wo sie mit dem Blut eines toten Jägers bedeckt war. Die Frau versucht sich zu rechtfertigen und behauptet, sie habe Kräuter gepflückt, als sie den verwundeten Jäger fand, und habe versucht, ihn zu retten, nachdem er von einem Wolf angegriffen worden war.\n\nDer Mann warnt Euch, ihre Beteuerungen zu ignorieren - sie sei eine Wiedergänger; erinnert Euch an die Sagen vom Nachtkönig und die Gefahr, die seinesgleichen darstellen."
  agot_filler_north.0043.a:0 "Wer war noch mal der Nachtkönig?"
  agot_filler_north.0043.b:0 "Das Reich dankt euch!"
  agot_filler_north.0043.c:0 "Die Wiedergänger aus der Sage haben blaue Augen, du Narr!"
@@ -219,12 +219,12 @@
  agot_filler_north.0044.a:0 "Ah! Ja, der Nachtkönig."
 
  agot_filler_north.0045.t:0 "Ihre Umarmung: Nacht"
- agot_filler_north.0045.desc:0 "Manchmal streife ich in unruhigen Nächten durch die Burghallen. Normalerweise sind nur wenige Leute so spät unterwegs, außer ein paar Wachen, doch heute Nacht treffe ich auf [palebride.GetFirstNameNoTooltip], die ebenfalls durch die Hallen wandert. Sie kommt auf mich zu und flüstert mir Dinge zu, die mein Blut vor Verlangen kochen lassen. Sie schenkt mir ein verschmitztes Lächeln, und ich folge ihr, und bald sind wir beide in den Laken eines Gästezimmers verfangen."
+ agot_filler_north.0045.desc:0 "Manchmal streife ich in unruhigen Nächten durch die Burghallen. Normalerweise sind nur wenige Leute so spät noch unterwegs, außer ein paar Wachen, doch heute Nacht treffe ich auf [palebride.GetFirstNameNoTooltip], die ebenfalls durch die Hallen wandert. Sie kommt auf mich zu und flüstert mir Dinge zu, die mein Blut zur Wallung bringen. Sie schenkt mir ein verschmitztes Lächeln, und ich folge ihr, und schon bald sind wir beide eng umschlungen in den Laken eines Gästezimmers."
  agot_filler_north.0045.a:0 "Ihre Augen sind fast blau..."
 
  agot_filler_north.0046.t:0 "Ihre Umarmung: Morgen"
- agot_filler_north.0046.desc:0 "Als die Morgendämmerung einsetzt, ist [palebride.GetFirstNameNoTooltip] nicht auffindbar. Die Wachen durchsuchen die Burg vergeblich. Diese Nacht hat mich irgendwie verändert, das spüre ich. Wenn ich versuche, mich an ihre Schönheit zu erinnern, kann ich nur das tiefe Blau ihrer Augen sehen, wie das kälteste Eis, aber waren ihre Augen nicht eigentlich rot?\n\nVielleicht hatte [thug.GetFirstNameNoTooltip] recht mit seiner Warnung..."
- agot_filler_north.0046.a:0 "Verbitterung oder etwas anderes..."
+ agot_filler_north.0046.desc:0 "Als die Morgendämmerung einsetzt, ist [palebride.GetFirstNameNoTooltip] nicht auffindbar. Die Wachen durchsuchen vergeblich die Burg. Diese Nacht hat mich irgendwie verändert, das spüre ich. Wenn ich versuche, mich an ihre Schönheit zu erinnern, kann ich nur das tiefe Blau ihrer Augen sehen, wie das kälteste Eis, aber waren ihre Augen nicht ursprünglich rot?\n\nVielleicht hatte [thug.GetFirstNameNoTooltip] Recht mit seiner Warnung..."
+ agot_filler_north.0046.a:0 "Ein bitterer Beigeschmack oder etwas anderes..."
 
  agot_filler_north.0047.t:0 "Alptraum von ihr"
  agot_filler_north.0047.desc:0 "Seit der Hinrichtung von [palebride.GetFirstNameNoTooltip] hat sich der Albtraum in den letzten Nächten immer wieder wiederholt. Ich wandere nachts durch die Burg und zittere vor Kälte. Als ich mich einem offenen Fenster nähere, um die Fensterläden zu schließen, sehe ich sie. Sie steht im Innenhof, während es schneit, und starrt zu mir hoch. Ihre Augen sind in dem Traum blau, nicht rot, ein unnatürliches Blau..."
